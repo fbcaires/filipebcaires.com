@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Filipe B. Caires</title>
+    <link>https://filipebcaires.com/categories/</link>
+      <atom:link href="https://filipebcaires.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://filipebcaires.com/media/icon_huc23135bc6e064c1c3f6d8c4d6025a7a6_14558_512x512_fill_lanczos_center_3.png</url>
+      <title>Categories</title>
+      <link>https://filipebcaires.com/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
