@@ -1,5 +1,5 @@
 ---
-date: "2022-10-24"
+date: "2023-08-27"
 sections:
 - block: about.biography
   content:
