@@ -4,7 +4,7 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: - FILIPE B. CAIRES - # Website name
+title: "- FILIPE B. CAIRES -" # Website name
 baseURL: https://filipebcaires.com/ # Website URL 'https://example.com/'
 
 ############################
