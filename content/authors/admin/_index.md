@@ -40,8 +40,8 @@ social:
     header: true
   icon: twitter
   icon_pack: fab
-#  label: Follow me on Twitter
-#  link: https://twitter.com/fbcaires
+  label: Follow me on Twitter
+  link: https://twitter.com/fbcaires
 #- icon: graduation-cap
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
