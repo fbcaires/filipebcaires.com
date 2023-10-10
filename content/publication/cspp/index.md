@@ -19,7 +19,7 @@ featured: false
 publication: ""
 publication_short: ""
 publication_types:
-- "7"
+- "3"
 publishDate: "2017-01-01T00:00:00Z"
 # slides: example
 summary: We study the role of contract splitting in public procurement. Exploiting a reform that reduced the threshold for direct awards, we find that contract splitting is the most important mechanism by which buyers manipulate the price of projects to award contracts at discretion. Our evidence suggests that splitting is driven by favouritism rather than efficiency-promoting motives of manipulation.
