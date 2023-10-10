@@ -16,7 +16,7 @@ featured: false
 #  url: http://example.org
 #projects:
 #- internal-project
-publication: ""
+publication: "_Working Paper_"
 publication_short: ""
 publication_types:
 - "3"
@@ -27,7 +27,7 @@ tags:
 - Public Procurement
 - Manipulation
 - Favouritism
-title: Contract Splitting in Public Procurement
+title: Contract Splitting in Public Procurement 
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
 #url_pdf:  #http://arxiv.org/pdf/1512.04133v1
