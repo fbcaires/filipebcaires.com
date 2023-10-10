@@ -28,6 +28,7 @@ tags:
 - Manipulation
 - Favouritism
 title: Contract Splitting in Public Procurement 
+subtitle: Presented @ ISEG Micro Group Lisbon (2022), EUI (2023), USE Workshop on Lobbying and Political Influence (_upcoming_)
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
 #url_pdf:  #http://arxiv.org/pdf/1512.04133v1
