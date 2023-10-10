@@ -1,10 +1,10 @@
 ---
-abstract: We study the role of contract splitting in public procurement. Procurement contracts with price below an arbitrary threshold can be awarded at discretion, while awards for contracts above it are required to be competitive. Exploiting a reform that reduced the threshold, we find that buyers manipulate projects' price in order to award contracts at discretion. We show that contract splitting is the most important mechanism of manipulation in public procurement in this context. Our evidence suggests that splitting is driven by favouritism rather than efficiency-promoting motives of manipulation - we find _i)_ no evidence that splitting is intended to leverage discretion and foster non-contractible quality, _ii)_ that split contracts are more likely to be awarded to sellers associated with favouritism, and _iii)_ split contracts are not associated with better, and sometimes with worse, post-award performance.
+abstract: We study the role of contract splitting in public procurement. Procurement contracts with price below a threshold can be awarded at discretion, while awards for contracts above it are required to be competitive. Exploiting a reform that reduced the threshold, we find that buyers manipulate projects' price in order to award contracts at discretion. We show that contract splitting, the division of large contracts into multiple smaller parts, is the most important mechanism of manipulation in public procurement in this context. Our evidence suggests that splitting is driven by favouritism rather than efficiency-promoting motives of manipulation - we find _i)_ no evidence that splitting is intended to foster non-contractible quality through discretion, _ii)_ that split contracts are more likely to be awarded to sellers associated with favouritism,  _iii)_ less transparent buyers manipulate more, and _iv)_ split contracts are associated with slightly worse post-award performance.
 authors:
 - admin
 - Susana Peralta
 - Diogo Mendes
-date: "2023-08-27T00:00:00Z"
+date: "2023-05-27T00:00:00Z"
 doi: ""
 featured: false
 #image:
