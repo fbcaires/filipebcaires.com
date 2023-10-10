@@ -30,7 +30,7 @@ tags:
 title: Contract Splitting in Public Procurement
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: uploads/CSPP_Cairesetal_2023.pdf #http://arxiv.org/pdf/1512.04133v1
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""
