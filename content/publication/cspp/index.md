@@ -41,6 +41,6 @@ links:
   url: uploads/CSPP_Cairesetal_2023.pdf
 ---
 
-_Presented_: ISEG Lisbon Micro Group Lisbon; EUI
+_Presented_ : ISEG Lisbon Micro Group Lisbon; EUI
 
-_Scheduled_: USE Workshop on Lobbying and Political Influence 
+_Scheduled_ : USE Workshop on Lobbying and Political Influence 
