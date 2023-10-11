@@ -37,8 +37,10 @@ title: Contract Splitting in Public Procurement
 #url_source: '#'
 #url_video: '#'
 links:
-- name: Working Paper
+- name: Ungated Working Paper
   url: uploads/CSPP_Oct2023.pdf
+- name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4599419
 ---
 
 _Presented_ : ISEG Lisbon Micro Group Lisbon; EUI
