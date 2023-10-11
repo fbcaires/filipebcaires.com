@@ -38,7 +38,7 @@ title: Contract Splitting in Public Procurement
 #url_video: '#'
 links:
 - name: Working Paper
-  url: uploads/CSPP_Cairesetal_2023.pdf
+  url: uploads/CSPP_Oct2023.pdf
 ---
 
 _Presented_ : ISEG Lisbon Micro Group Lisbon; EUI
