@@ -65,4 +65,5 @@ I am a third year PhD candidate in Economics at the [European University Institu
 I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/).
 
 Upcoming Talks: 
-- [Workshop on Lobbying and Political Influence](https://www.uu.nl/en/events/workshop-on-lobbying-and-political-influence) (Utrecht USE, Nov 6-7)
+- [Workshop on Lobbying and Political Influence](https://www.uu.nl/en/events/workshop-on-lobbying-and-political-influence) (Utrecht USE; Nov 6-7)
+- [16th PhD Workshop in Economics](https://www.workshopecon.carloalberto.org/) (Collegio Carlo Alberto, Torino; Nov 23-24)
