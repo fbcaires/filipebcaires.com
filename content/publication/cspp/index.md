@@ -43,6 +43,6 @@ links:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4599419
 ---
 
-_Presented_ : ISEG Lisbon Micro Group Lisbon; EUI
+_Presented_ : ISEG Lisbon Micro Group Lisbon; EUI; Utrecht USE Workshop on Lobbying and Political Influence 
 
-_Scheduled_ : USE Workshop on Lobbying and Political Influence 
+_Scheduled_ : UniTo-CCA PhD Workshop in Economics
