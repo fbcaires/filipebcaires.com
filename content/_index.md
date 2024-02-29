@@ -71,7 +71,7 @@ sections:
     items:
     - certificate_url: ""
       date_end: "2024-02-10"
-      date_start: "Ongoing"
+      date_start: "2024-03-31"
       description: "TA to Andrea Mattozzi"
       organization: PhD in Economics EUI
       organization_url: https://www.eui.eu/en/academic-units/department-of-economics
