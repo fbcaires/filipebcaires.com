@@ -70,6 +70,14 @@ sections:
     date_format: Jan 2006
     items:
     - certificate_url: ""
+      date_end: "2024-02-10"
+      date_start: "Ongoing"
+      description: "TA to Andrea Mattozzi"
+      organization: PhD in Economics EUI
+      organization_url: https://www.eui.eu/en/academic-units/department-of-economics
+      title: Microeconomics III - Information Economics and Social Choice
+      url: ""
+    - certificate_url: ""
       date_end: "2023-02-28"
       date_start: "2022-10-01"
       description: "TA to Sule Alan and Tom Crossley"
