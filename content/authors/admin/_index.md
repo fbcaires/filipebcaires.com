@@ -60,8 +60,10 @@ superuser: true
 title: Filipe B. Caires
 ---
 
-I am a third year PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics), in Florence, Italy. In my research, I apply microeconometric methods to study policy-relevant questions. My main interests are in labour and public economics. 
+I am a fourth year PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics), in Florence, Italy. In my research, I apply microeconometric methods to study policy-relevant questions. My main interests are in labour and public economics. 
 
 I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/).
 
-Between April and September, I will be visiting the Directorate for Employment, Labour, and Social Affairs at the [OECD](https://www.oecd.org/els/).
+From April and September, I am visiting the Directorate for Employment, Labour, and Social Affairs at the [OECD](https://www.oecd.org/els/). 
+
+I will be visiting the Department of Applied Economics at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and the [Institute for Social Research at University of Michigan](https://isr.umich.edu/) between October and November. 

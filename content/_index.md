@@ -60,7 +60,7 @@ sections:
     #  {{% callout note %}}
     #  Quickly discover relevant content by [filtering publications](./publication/).
     #  {{% /callout %}}
-    title: Research
+    title: Research with Complete Drafts
   design:
     columns: "2"
     view: card
@@ -70,7 +70,7 @@ sections:
     date_format: Jan 2006
     items:
     - certificate_url: ""
-      date_end: "2024-02-10"
+      date_end: "2024-02-01"
       date_start: "2024-03-31"
       description: "TA to Andrea Mattozzi"
       organization: PhD in Economics EUI
