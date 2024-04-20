@@ -64,6 +64,6 @@ I am a fourth year PhD student in Economics at the [European University Institut
 
 I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/).
 
-From April and September, I am visiting the Directorate for Employment, Labour, and Social Affairs at the [OECD](https://www.oecd.org/els/). 
+From April to September, I am visiting the [OECD](https://www.oecd.org/els/) Directorate for Employment, Labour, and Social Affairs. 
 
 I will be visiting the Department of Applied Economics at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and the [Institute for Social Research at University of Michigan](https://isr.umich.edu/) between October and November. 
