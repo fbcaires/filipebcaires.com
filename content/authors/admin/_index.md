@@ -60,10 +60,9 @@ superuser: true
 title: Filipe B. Caires
 ---
 
-I am a fourth year PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics), in Florence, Italy. In my research, I apply microeconometric methods to study policy-relevant questions. My main interests are in labour and public economics. 
+I am a fourth year PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics), in Florence, Italy. In my research, I apply microeconometric methods to study policy-relevant questions. My main interests are in labour and public economics. I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/).
 
-I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/).
+I am visiting the [OECD](https://www.oecd.org/els/) Directorate for Employment, Labour, and Social Affairs between April and September, and will be visiting the Department of Applied Economics at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and the [Institute for Social Research at University of Michigan](https://isr.umich.edu/) between October and November. 
 
-From April to September, I am visiting the [OECD](https://www.oecd.org/els/) Directorate for Employment, Labour, and Social Affairs. 
-
-I will be visiting the Department of Applied Economics at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and the [Institute for Social Research at University of Michigan](https://isr.umich.edu/) between October and November. 
+Upcoming talks:
+- [OECD](https://www.oecd.org/els/) Applied WIP Seminar, May'24
