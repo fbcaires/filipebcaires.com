@@ -19,7 +19,7 @@ featured: false
 publication: "_Applied Economics_, 55(60), 7150 – 7177."
 publication_short: ""
 publication_types:
-- "1"
+- "2"
 publishDate: "2023-06-01T00:00:00Z"
 # slides: example
 summary: <u>Pre-PhD Publication</u>  <br><br> This article estimates a discrete-time proportional hazards model to study firm survival in thte Portuguese Tourism sector. While tourism is among the most volatile sectors in times of uncertainty, tourism-associated firms are remarkably resilient.

@@ -20,7 +20,7 @@ publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
 # slides: example
-summary: <u>Draft Available Upon Request.</u>  <br><br> This paper provides empirical evidence that firms' internal organization and associated pay policies shape the propagation of minimum wage spillovers. Rigid, tournament-like firms use between-level pay differentials to incentivize workers. They respond to minimum wage hikes by raising wages up the hierarchy, amplifying spillovers to a larger extent than flexible firms, where wage-setting has a stronger individual component. I rationalize the mechanism throguh a simple theoretical model. 
+summary: <u>Draft Available Upon Request.</u>  <br><br> This paper provides empirical evidence that firms' internal organization and associated pay policies shape the propagation of minimum wage spillovers. Rigid, tournament-like firms use between-level pay differentials to incentivize workers. They respond to minimum wage hikes by raising wages up the hierarchy, amplifying spillovers to a larger extent than flexible firms, where wage-setting has a stronger individual component. I develop a simple theoretical model to rationalize these mechanisms. 
 tags:
 - Labour Economics
 - Personnel Economics
