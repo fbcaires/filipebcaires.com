@@ -37,7 +37,7 @@ title: "Survival of the Fittest: Tourism Exposure and Firm Survival"
 #url_slides: ""
 #url_source: '#'
 #url_video: '#'
-#links:
+links:
 - name: Article
   url: https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2208858
 #- name: SSRN
