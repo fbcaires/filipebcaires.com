@@ -60,7 +60,7 @@ sections:
     #  {{% callout note %}}
     #  Quickly discover relevant content by [filtering publications](./publication/).
     #  {{% /callout %}}
-    title: Research with Complete Drafts
+    title: Research
   design:
     columns: "2"
     view: card

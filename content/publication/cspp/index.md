@@ -4,7 +4,7 @@ authors:
 - admin
 - Susana Peralta
 - Diogo Mendes
-date: "2023-05-27T00:00:00Z"
+date: "2023-10-27T00:00:00Z"
 doi: ""
 featured: false
 #image:
@@ -43,6 +43,4 @@ links:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4599419
 ---
 
-_Presented_ : ISEG Lisbon Micro Group Lisbon; EUI; Utrecht USE Workshop on Lobbying and Political Influence 
-
-_Scheduled_ : UniTo-CCA PhD Workshop in Economics
+_Presentations_ : ISEG Lisbon Micro Group Lisbon; EUI; Utrecht USE Workshop on Lobbying and Political Influence; UniTo-CCA PhD Workshop in Economics

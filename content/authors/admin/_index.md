@@ -60,10 +60,4 @@ superuser: true
 title: Filipe B. Caires
 ---
 
-I am a fourth year PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics), in Florence, Italy. In my research, I apply microeconometric methods to study policy-relevant questions. My main interests are in labour and public economics. I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/).
-
-I am visiting the Department of Applied Economics at [HEC Montréal](https://www.hec.ca/en/iea/index.html) until Ocotber 25 and will next visit the [Institute for Social Research at University of Michigan](https://isr.umich.edu/) between October and November. 
-
-Upcoming talks:
-- [HEC Montréal](https://www.hec.ca/en/iea/index.html) - October 3rd
-- [McGill University](https://www.mcgill.ca/economics/) Applied Micro Breakfast - October 11th
+I am a PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics), in Florence, Italy. In my research, I apply microeconometric methods to study policy-relevant questions. I am most interested are in labour and public economics. I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/).
