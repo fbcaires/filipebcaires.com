@@ -38,8 +38,8 @@ title: "Survival of the Fittest: Tourism Exposure and Firm Survival"
 #url_source: '#'
 #url_video: '#'
 #links:
-#- name: Ungated Working Paper
-#  url: uploads/CSPP_Oct2023.pdf
+- name: Article
+  url: https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2208858
 #- name: SSRN
 #  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4599419
 ---
