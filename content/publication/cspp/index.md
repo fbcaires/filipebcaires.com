@@ -1,5 +1,5 @@
 ---
-abstract: We study the role of contract splitting in public procurement. Procurement contracts with price below a threshold can be awarded at discretion, while awards for contracts above it are required to be competitive. Exploiting a reform that reduced the threshold, we find that buyers manipulate projects' price in order to award contracts at discretion. We show that contract splitting, the division of large contracts into multiple smaller parts, is the most important mechanism of manipulation in public procurement in this context. Our evidence suggests that splitting is driven by favouritism rather than efficiency-promoting motives of manipulation - we find _i)_ no evidence that splitting is intended to foster non-contractible quality through discretion, _ii)_ that split contracts are more likely to be awarded to sellers associated with favouritism,  _iii)_ less transparent buyers manipulate more, and _iv)_ split contracts are associated with slightly worse post-award performance.
+abstract: This paper studies contract splitting - the act of splitting contracts into multiple smaller ones - as a mechanism of manipulation in public procurement. Leveraging the procurement administrative registry in Portugal and exploiting a reform that lowered discretion thresholds, we find that contract splitting is the main mechanism of manipulation. Buyers split to circumvent competitive requirements, more so for goods and services than for less divisible construction works. We discuss the implications of contract splitting for commonly used bunching estimators, documenting the existence of a splitting-induced bias. Discretion-seeking manipulation is motivated by favoritism rather than efficiency promotion.
 authors:
 - admin
 - Susana Peralta
@@ -22,11 +22,12 @@ publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
 # slides: example
-summary: We study the role of contract splitting in public procurement. Exploiting a reform that reduced the threshold for direct awards, we find that contract splitting is the most important mechanism by which buyers manipulate the price of projects to award contracts at discretion. Our evidence suggests that splitting is driven by favouritism rather than efficiency-promoting motives of manipulation.
+summary: This paper studies contract splitting - the act of splitting contracts into multiple smaller ones - as a mechanism of manipulation in public procurement. Leveraging the procurement administrative registry in Portugal and exploiting a reform that lowered discretion thresholds, we find that contract splitting is the main mechanism of manipulation. Buyers split to circumvent competitive requirements, more so for goods and services than for less divisible construction works. We discuss the implications of contract splitting for commonly used bunching estimators, documenting the existence of a splitting-induced bias. 
 tags:
-- Public Procurement
+- Contract Splitting
 - Manipulation
-- Favouritism
+- Bunching
+- ublic Procurement
 title: Contract Splitting in Public Procurement 
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
@@ -38,7 +39,7 @@ title: Contract Splitting in Public Procurement
 #url_video: '#'
 links:
 - name: Ungated Working Paper
-  url: uploads/CSPP_Oct2023.pdf
+  url: uploads/CSPP_Mar2025.pdf
 - name: SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4599419
 ---
