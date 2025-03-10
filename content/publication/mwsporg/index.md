@@ -46,4 +46,4 @@ title: Internal Organization of Firms and Minimum Wage Spillovers
 #  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4599419
 ---
 
-_Presentations_ : EUI; OECD; SciencesPo; HEC Montreal; McGill University
+_Presented at_ : EUI; OECD; SciencesPo; HEC Montreal; McGill University
