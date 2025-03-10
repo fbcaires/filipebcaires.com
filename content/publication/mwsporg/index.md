@@ -1,10 +1,12 @@
 ---
-abstract: This paper provides empirical evidence that firms' internal organization and associated pay policies shape the propagation of minimum wage spillovers. Rigid, tournament-like firms use between-level pay differentials to incentivize workers and respond to minimum wage hikes by raising wages up the hierarchy, amplifying spillovers.  Flexible firms rely more on individual wage-setting and can limit spillovers. I study these mechanisms through a simple model of firm organization and pay policies. Using rich administrative employer-employee data from Portugal, I study two minimum wage hikes and construct measures of firm rigidity to examine how organizational structure shapes the strength of spillovers. Spillovers from the minimum wage reach the 47$^{th}$ percentile of the wage distribution, and represent around 40\% of the direct effect on minimum wage workers. I show that spillovers are up to 40\% stronger in rigid firms, with well-defined hierarchies and structured pay policies. These findings have broader implications for a wide range of shocks that shift relative pay within firms.
+abstract: This paper provides empirical evidence that firms' internal organization and associated pay policies shape the propagation of minimum wage spillovers. Rigid, tournament-like firms use between-level pay differentials to incentivize workers and respond to minimum wage hikes by raising wages up the hierarchy, amplifying spillovers.  Flexible firms rely more on individual wage-setting and can limit spillovers. Using rich administrative employer-employee data from Portugal, I construct measures of firm rigidity to examine how organizational structure shapes the strength of spillovers. Spillovers from the minimum wage reach the 47th percentile of the wage distribution, and represent around 40% of the direct effect on minimum wage workers. I show that spillovers are up to 40% stronger in rigid firms. I build a simple model of firm organization and pay policies that helps rationalize these findings. The result has broad implications for a wide range of shocks that shift relative pay within firms.
 authors:
 - admin
 date: "2024-12-15T00:00:00Z"
 doi: ""
 featured: false
+presentations: "_Presented at_: EUI; OECD; SciencesPo; HEC Montreal; McGill University"
+comments: <u>Draft Available Upon Request.</u> 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
 #  focal_point: ""
@@ -20,7 +22,7 @@ publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
 # slides: example
-summary: <u>Draft Available Upon Request.</u>  <br><br> This paper provides empirical evidence that firms' internal organization and associated pay policies shape the propagation of minimum wage spillovers. Rigid, tournament-like firms use between-level pay differentials to incentivize workers. They respond to minimum wage hikes by raising wages up the hierarchy, amplifying spillovers to a larger extent than flexible firms, where wage-setting has a stronger individual component. I develop a simple theoretical model to rationalize these mechanisms. 
+summary: This paper provides empirical evidence that firms' internal organization and associated pay policies shape the propagation of minimum wage spillovers. Rigid, tournament-like firms use between-level pay differentials to incentivize workers and respond to minimum wage hikes by raising wages up the hierarchy, amplifying spillovers.  Flexible firms rely more on individual wage-setting and can limit spillovers. Using rich administrative employer-employee data from Portugal, I construct measures of firm rigidity to examine how organizational structure shapes the strength of spillovers. Spillovers from the minimum wage reach the 47th percentile of the wage distribution, and represent around 40% of the direct effect on minimum wage workers. I show that spillovers are up to 40% stronger in rigid firms. I build a simple model of firm organization and pay policies that helps rationalize these findings. The result has broad implications for a wide range of shocks that shift relative pay within firms.
 tags:
 - Labour Economics
 - Personnel Economics

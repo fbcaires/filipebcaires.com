@@ -5,7 +5,8 @@ authors:
 - Hugo Reis
 - Paulo M. M. Rodrigues
 date: "2023-06-01T00:00:00Z"
-doi: "https://doi.org/10.1080/00036846.2023.2208858"
+#doi: "https://doi.org/10.1080/00036846.2023.2208858"
+comments: w/ Hugo Reis and Paulo M. M. Rodrigues. (Pre-PhD Work)
 featured: false
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
@@ -22,7 +23,7 @@ publication_types:
 - "2"
 publishDate: "2023-06-01T00:00:00Z"
 # slides: example
-summary: <u>Pre-PhD Publication</u>  <br><br> This article estimates a discrete-time proportional hazards model to study firm survival in thte Portuguese Tourism sector. While tourism is among the most volatile sectors in times of uncertainty, tourism-associated firms are remarkably resilient.
+summary: This article estimates a discrete-time proportional hazards model to study firm survival in thte Portuguese Tourism sector. While tourism is among the most volatile sectors in times of uncertainty, tourism-associated firms are remarkably resilient.
 tags:
 - Firm Survival
 - Tourism Exposure 
@@ -40,6 +41,8 @@ title: "Survival of the Fittest: Tourism Exposure and Firm Survival"
 links:
 - name: Article
   url: https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2208858
+- name: DOI
+  url: https://doi.org/10.1080/00036846.2023.2208858
 #- name: SSRN
 #  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4599419
 ---

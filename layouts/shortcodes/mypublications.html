@@ -1,0 +1,55 @@
+<div class="my-publications" style="max-width: 110ch; margin: auto; padding: 2rem 0; display: flex; justify-content: center;">
+  <div style="width: 100%; max-width: 100ch;">
+    {{ range (where (where site.RegularPages "Section" "publication") ".Params.example" "ne" true) }}
+      <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.82rem !important; line-height: 1.6 !important; margin: auto; padding-bottom: 1.5rem;">
+        
+        <!-- Title -->
+        <h3 class="publication-title" style="font-size: 1.1rem !important; margin-bottom: 0.2rem;">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h3>
+
+        <!-- Comments (Draft Available, etc.) -->
+        {{ with .Params.comments }}
+        <div class="publication-comments" style="margin-bottom: 0.6rem; font-style: italic; 
+             color: #888; /* Darker gray for light mode */
+             color: var(--text-muted, #777); /* Adaptive gray */
+             display: block; font-size: 0.85rem !important;">
+          {{ . | markdownify }}
+        </div>
+        {{ end }}
+
+        <!-- Summary (Abstract) -->
+        <div class="publication-summary" style="margin-bottom: 1rem; font-size: 0.82rem !important; line-height: 1.6 !important;
+             max-width: 100ch; text-align: left;">
+          {{ .Params.summary | markdownify }}
+        </div>
+
+        <!-- Presentations (Where it was presented) -->
+        {{ with .Params.presentations }}
+        <div class="publication-presentations" style="margin-top: 0.3rem; font-size: 0.85rem !important; font-style: italic; 
+             color: #888; /* Darker gray for light mode */
+             color: var(--text-muted, #777); /* Adaptive gray */
+             display: block;">
+          {{ . | markdownify }}
+        </div>
+        {{ end }}
+
+        <!-- Links (Dynamically Generated from `links:` in index.md) -->
+        {{ if .Params.links }}
+        <div class="publication-links" style="margin-top: 0.8rem; text-align: left;">
+          {{ range .Params.links }}
+          <span style="display: inline-block; margin: 0.2rem;">
+            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"
+               style="padding: 0.4rem 0.9rem; font-size: 0.8rem; text-decoration: none; 
+                      border: 1px solid #ccc; border-radius: 5px; background: #eee; color: #333;">
+              {{ .name }}
+            </a>
+          </span>
+          {{ end }}
+        </div>
+        {{ end }}
+
+      </div>
+    {{ end }}
+  </div>
+</div>

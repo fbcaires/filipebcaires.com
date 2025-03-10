@@ -9,6 +9,8 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
+example: true
+draft: true 
 doi: ""
 featured: true
 image:

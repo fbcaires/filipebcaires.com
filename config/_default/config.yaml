@@ -1,4 +1,4 @@
-theme: "starter-hugo-academic"
+theme: starter-hugo-academic
 # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
@@ -6,6 +6,7 @@ theme: "starter-hugo-academic"
 
 title: "- FILIPE B. CAIRES -" # Website name
 baseURL: https://filipebcaires.com/ # Website URL 'https://example.com/'
+buildDrafts: false
 
 ############################
 ## LANGUAGE

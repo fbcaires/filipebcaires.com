@@ -33,13 +33,29 @@
     </item>
     
     <item>
+      <title>Internal Organization of Firms and Minimum Wage Spillovers</title>
+      <link>https://filipebcaires.com/publication/mwsporg/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/publication/mwsporg/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Presented at&lt;/em&gt; : EUI; OECD; SciencesPo; HEC Montreal; McGill University&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contract Splitting in Public Procurement</title>
       <link>https://filipebcaires.com/publication/cspp/</link>
-      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://filipebcaires.com/publication/cspp/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Presented&lt;/em&gt; : ISEG Lisbon Micro Group Lisbon; EUI; Utrecht USE Workshop on Lobbying and Political Influence&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Scheduled&lt;/em&gt; : UniTo-CCA PhD Workshop in Economics&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Presented at&lt;/em&gt; : ISEG Lisbon Micro Group Lisbon; EUI; Utrecht USE Workshop on Lobbying and Political Influence; UniTo-CCA PhD Workshop in Economics&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Survival of the Fittest: Tourism Exposure and Firm Survival</title>
+      <link>https://filipebcaires.com/publication/pre_phd/survival/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/publication/pre_phd/survival/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -276,7 +292,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-192743865&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-871254639&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -286,7 +302,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-192743865&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-871254639&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -567,20 +583,6 @@ Crash --&gt; [*]
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://filipebcaires.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://filipebcaires.com/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>https://filipebcaires.com/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -786,48 +788,50 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://filipebcaires.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://filipebcaires.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://filipebcaires.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://filipebcaires.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://filipebcaires.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://filipebcaires.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Econometrics II</title>
+      <link>https://filipebcaires.com/teaching/metris2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/teaching/metris2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economics of Education</title>
+      <link>https://filipebcaires.com/teaching/econeduc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/teaching/econeduc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microeconometrics</title>
+      <link>https://filipebcaires.com/teaching/microeconometrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/teaching/microeconometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microeconomics III - Information Economics and Social Choice</title>
+      <link>https://filipebcaires.com/teaching/microeconomics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/teaching/microeconomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics and Econometrics II - Econometrics of Microdata</title>
+      <link>https://filipebcaires.com/teaching/econometrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/teaching/econometrics/</guid>
       <description></description>
     </item>
     

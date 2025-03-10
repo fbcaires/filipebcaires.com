@@ -1,0 +1,26 @@
+<div class="my-teaching" style="max-width: 110ch; margin: auto; padding: 2rem 0; display: flex; justify-content: center;">
+  <div style="width: 100%; max-width: 100ch;">
+    {{ range sort (where site.RegularPages "Section" "teaching") ".Params.date_end" "desc" }}
+      <div class="teaching-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem !important; line-height: 1.6 !important; margin-bottom: 1rem;">
+        
+        <!-- Course Title -->
+        <h3 class="teaching-title" style="font-size: 1.1rem !important; margin-bottom: 0.2rem;">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h3>
+
+        <!-- Institution & Semester -->
+        <div class="teaching-meta" style="font-size: 0.85rem; color: #777; margin-bottom: 0.3rem;">
+          {{ .Params.organization }} · 
+          {{ if .Params.semester }}{{ .Params.semester }}{{ end }}
+        </div>
+
+
+        <!-- Role -->
+        <div class="teaching-role" style="font-size: 0.85rem; font-style: italic; color: #888;">
+          {{ .Params.description }}
+        </div>
+
+      </div>
+    {{ end }}
+  </div>
+</div>

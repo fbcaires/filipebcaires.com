@@ -1,0 +1,40 @@
+.my-publications .publication-entry {
+    box-shadow: none !important;
+    border: none !important;
+    background: transparent !important;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.my-publications .publication-title {
+    font-size: 1.2rem;
+    margin-bottom: 0.3rem;
+}
+
+.my-publications .publication-comments,
+.publication-presentations {
+    margin-top: 2rem; /* Adds more space above presentations */
+    font-size: 0.9rem;
+    font-style: italic;
+    color: #888;
+    display: block;
+}
+
+.my-publications .publication-abstract {
+    font-size: 0.9rem;
+}
+
+.my-publications .publication-links .btn {
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+}
+
+.publication-summary {
+    margin-bottom: 2rem; /* Adds clear space below summary */
+    font-size: 0.9rem; /* Adjust size for readability */
+    line-height: 1.7; /* More spacing between lines */
+    max-width: 75ch; /* Increases words per line */
+    text-align: justify; /* Ensures even spacing */
+    display: block;
+}

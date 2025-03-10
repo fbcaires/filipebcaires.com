@@ -7,6 +7,8 @@ authors:
 date: "2023-10-27T00:00:00Z"
 doi: ""
 featured: false
+presentations: "_Presented at_: ISEG Lisbon Micro Group Lisbon; EUI; Utrecht USE Workshop on Lobbying and Political Influence; UniTo-CCA PhD Workshop in Economics"
+comments: w/ Susana Peralta and Diogo Mendes
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
 #  focal_point: ""

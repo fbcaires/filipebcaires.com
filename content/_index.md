@@ -50,70 +50,86 @@ sections:
    # title: Experience
   #design:
     #columns: "2"
-- block: collection
-  content:
-    filters:
-      exclude_featured: true
-      folders:
-      - publication
+#- block: collection
+#  content:
+#    filters:
+#      exclude_featured: true
+#      folders:
+#      - publication
     # text: |-
     #  {{% callout note %}}
     #  Quickly discover relevant content by [filtering publications](./publication/).
     #  {{% /callout %}}
-    title: Research
-  design:
-    columns: "2"
-    view: card
-  id: research
-- block: accomplishments
+#    title: Research
+# design:
+#   columns: "2"
+#   view: card
+#  id: research
+- block: markdown
   content:
-    date_format: Jan 2006
-    items:
-    - certificate_url: ""
-      date_end: "2024-02-01"
-      date_start: "2024-03-31"
-      description: "TA to Andrea Mattozzi"
-      organization: PhD in Economics EUI
-      organization_url: https://www.eui.eu/en/academic-units/department-of-economics
-      title: Microeconomics III - Information Economics and Social Choice
-      url: ""
-    - certificate_url: ""
-      date_end: "2023-02-28"
-      date_start: "2022-10-01"
-      description: "TA to Sule Alan and Tom Crossley"
-      organization: PhD in Economics EUI
-      organization_url: https://www.eui.eu/en/academic-units/department-of-economics
-      title: Statistics and Econometrics II - Econometrics of Microdata
-      url: ""
-    - certificate_url: ""
-      date_end: "2020-06-01"
-      date_start: "2020-01-01"
-      description: "Grader to Pedro Raposo"
-      organization: MSc in Economics CATOLICA-LISBON
-      organization_url: https://www.clsbe.lisboa.ucp.pt/msc-economics/overview
-      title: Microeconometrics
-      url: ""
-    - certificate_url: ""
-      date_end: "2020-03-01"
-      date_start: "2018-09-01"
-      description: "TA and Grader to Hugo Reis"
-      organization: MSc in Economics CATOLICA-LISBON
-      organization_url: https://www.clsbe.lisboa.ucp.pt/msc-economics/overview
-      title: Econometrics II
-      url: ""
-    - certificate_url: ""
-      date_end: "2020-03-01"
-      date_start: "2018-09-01"
-      description: "TA and Grader to Hugo Reis"
-      organization: MSc in Economics CATOLICA-LISBON
-      organization_url: https://www.clsbe.lisboa.ucp.pt/msc-economics/overview
-      title: Economics of Education
-      url: ""
-    subtitle: Experience
+    title: Research
+    text: |
+      {{< mypublications >}}
+  design:
+    columns: "1"
+  id: research
+- block: markdown
+  content:
     title: Teaching
+    text: |
+      {{< myteaching >}}
   design:
     columns: "2"
   id: teaching
+#- block: accomplishments
+#  content:
+#    date_format: Jan 2006
+#    items:
+#    - certificate_url: ""
+#      date_end: "2024-02-01"
+#      date_start: "2024-03-31"
+#      description: "TA to Andrea Mattozzi"
+#      organization: PhD in Economics EUI
+#      organization_url: https://www.eui.eu/en/academic-units/department-of-economics
+#      title: Microeconomics III - Information Economics and Social Choice
+#      url: ""
+#    - certificate_url: ""
+#      date_end: "2023-02-28"
+#      date_start: "2022-10-01"
+#      description: "TA to Sule Alan and Tom Crossley"
+#      organization: PhD in Economics EUI
+#      organization_url: https://www.eui.eu/en/academic-units/department-of-economics
+#      title: Statistics and Econometrics II - Econometrics of Microdata
+#      url: ""
+#    - certificate_url: ""
+#      date_end: "2020-06-01"
+#      date_start: "2020-01-01"
+#      description: "Grader to Pedro Raposo"
+#      organization: MSc in Economics CATOLICA-LISBON
+#      organization_url: https://www.clsbe.lisboa.ucp.pt/msc-economics/overview
+#      title: Microeconometrics
+#      url: ""
+#    - certificate_url: ""
+#      date_end: "2020-03-01"
+#      date_start: "2018-09-01"
+#      description: "TA and Grader to Hugo Reis"
+#      organization: MSc in Economics CATOLICA-LISBON
+#      organization_url: https://www.clsbe.lisboa.ucp.pt/msc-economics/overview
+#      title: Econometrics II
+#      url: ""
+#    - certificate_url: ""
+#      date_end: "2020-03-01"
+#      date_start: "2018-09-01"
+#      description: "TA and Grader to Hugo Reis"
+#      organization: MSc in Economics CATOLICA-LISBON
+#      organization_url: https://www.clsbe.lisboa.ucp.pt/msc-economics/overview
+#      title: Economics of Education
+#      url: ""
+#    subtitle: Experience
+#    title: Teaching
+#  design:
+#    columns: "2"
+#  id: teaching
 #- block: collection
 #  content:
 #    count: 5

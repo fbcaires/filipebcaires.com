@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | - FILIPE B. CAIRES -</title>
+    <link>https://filipebcaires.com/publication/pre_phd/</link>
+      <atom:link href="https://filipebcaires.com/publication/pre_phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://filipebcaires.com/media/icon_huc23135bc6e064c1c3f6d8c4d6025a7a6_14558_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://filipebcaires.com/publication/pre_phd/</link>
+    </image>
+    
+    <item>
+      <title>Survival of the Fittest: Tourism Exposure and Firm Survival</title>
+      <link>https://filipebcaires.com/publication/pre_phd/survival/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/publication/pre_phd/survival/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
