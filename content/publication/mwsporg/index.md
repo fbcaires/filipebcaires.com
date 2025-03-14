@@ -6,7 +6,7 @@ date: "2024-12-15T00:00:00Z"
 doi: ""
 featured: false
 presentations: "_Presented at_: EUI; OECD; SciencesPo; HEC Montreal; McGill University"
-comments: <u>Draft Available Upon Request.</u> 
+comments: 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
 #  focal_point: ""
@@ -41,11 +41,11 @@ title: Internal Organization of Firms and Minimum Wage Spillovers
 #url_slides: ""
 #url_source: '#'
 #url_video: '#'
-#links:
+links:
 #- name: Ungated Working Paper
 #  url: uploads/CSPP_Oct2023.pdf
-#- name: SSRN
-#  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4599419
+- name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5136707
 ---
 
 _Presented at_ : EUI; OECD; SciencesPo; HEC Montreal; McGill University

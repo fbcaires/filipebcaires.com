@@ -40,10 +40,12 @@ title: Contract Splitting in Public Procurement
 #url_source: '#'
 #url_video: '#'
 links:
-- name: Ungated Working Paper
-  url: uploads/CSPP_Mar2025.pdf
+#- name: Ungated Working Paper
+#  url: uploads/CSPP_Mar2025.pdf
 - name: SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4599419
+- name: Portuguese Economy Research Report
+  url: https://research.pej.pt/2025/03/contract-splitting-in-public-procurement/
 ---
 
 _Presented at_ : ISEG Lisbon Micro Group Lisbon; EUI; Utrecht USE Workshop on Lobbying and Political Influence; UniTo-CCA PhD Workshop in Economics
