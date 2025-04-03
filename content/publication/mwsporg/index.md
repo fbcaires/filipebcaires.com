@@ -5,7 +5,7 @@ authors:
 date: "2024-12-15T00:00:00Z"
 doi: ""
 featured: false
-presentations: "_Presented at_: EUI; OECD; SciencesPo; HEC Montreal; McGill University"
+presentations: "_Presented at (*scheduled)_: EUI; OECD; SciencesPo; HEC Montreal; McGill University; *EAYE2025"
 comments: 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
