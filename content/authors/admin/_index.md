@@ -62,4 +62,4 @@ title: Filipe B. Caires
 
 I am a PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics), in Florence, Italy. In my research, I apply microeconometric methods to study policy-relevant questions. I am most interested in labour and public economics. I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/).
 
-During my PhD, I visited [HEC Montréal](https://www.hec.ca/en/iea/index.html) and served as an economist for half year at the Directorate for Employment, Labour, and Social Affairs at the [OECD](https://www.oecd.org/en.html). As a result, I am part of the [LinkEED 2.0](https://www.oecd.org/en/about/projects/linkeed-200.html) research network.
+During my PhD, I visited [HEC Montréal](https://www.hec.ca/en/iea/index.html) and served as an economist for half year at the Directorate for Employment, Labour, and Social Affairs at the [OECD](https://www.oecd.org/en.html). I am part of the [LinkEED 2.0](https://www.oecd.org/en/about/projects/linkeed-200.html) research network.
