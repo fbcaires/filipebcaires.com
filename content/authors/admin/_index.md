@@ -60,6 +60,11 @@ superuser: true
 title: Filipe B. Caires
 ---
 
-I am a PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics), in Florence, Italy. In my research, I apply microeconometric methods to study policy-relevant questions. I am most interested in labour and public economics. I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/).
+I am a PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics), in Florence, Italy. In my research, I apply microeconometric methods to study policy-relevant questions in labour and public economics. I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/).
 
-During my PhD, I visited [HEC Montréal](https://www.hec.ca/en/iea/index.html) and served as an economist for half year at the Directorate for Employment, Labour, and Social Affairs at the [OECD](https://www.oecd.org/en.html). I am part of the [LinkEED 2.0](https://www.oecd.org/en/about/projects/linkeed-200.html) research network.
+During my PhD, I visited [HEC Montréal](https://www.hec.ca/en/iea/index.html), and the [Institute for Social Research at University of Michigan](https://isr.umich.edu/), and served as an economist at the Directorate for Employment, Labour, and Social Affairs at the [OECD](https://www.oecd.org/en.html) for half a year. I am a member of the [LinkEED 2.0](https://www.oecd.org/en/about/projects/linkeed-200.html) research network.
+
+Upcoming talks: 
+- [EAYE 2025](https://www.eaye.info/eayeam/2025-edition), King's College London (May 29-31)
+- [18th PEJ Annual Meeting](https://pej2025.com/), NOVA SBE Carcavelos (July 4-6)
+- [40th Meeting of the EEA](https://eea2025.org/), Bordeux School of Economics (August 25-28) 
