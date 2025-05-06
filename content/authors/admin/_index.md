@@ -67,4 +67,4 @@ During my PhD, I undertook research visits at [HEC Montréal](https://www.hec.ca
 Upcoming talks: 
 - [EAYE 2025](https://www.eaye.info/eayeam/2025-edition), King's College London (May 29-31)
 - [18th PEJ Annual Meeting](https://pej2025.com/), NOVA SBE Carcavelos (July 4-6)
-- [40th Meeting of the EEA](https://eea2025.org/), Bordeux School of Economics (August 25-28) 
+- [40th Meeting of the EEA](https://eea2025.org/), Bordeaux School of Economics (August 25-28) 
