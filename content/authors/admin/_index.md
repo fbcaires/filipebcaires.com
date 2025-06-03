@@ -64,7 +64,7 @@ I am a PhD candidate in Economics at the [European University Institute](https:/
 
 During my PhD, I undertook research visits at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and the [Institute for Social Research at the University of Michigan](https://isr.umich.edu/), and served as an economist at the Directorate for Employment, Labour, and Social Affairs at the [OECD](https://www.oecd.org/en.html) for half a year. I am a member of the [LinkEED 2.0](https://www.oecd.org/en/about/projects/linkeed-200.html) research network.
 
-Upcoming talks: 
+Talks this Summer: 
 - [EAYE 2025](https://www.eaye.info/eayeam/2025-edition), King's College London (May 29-31)
 - [18th PEJ Annual Meeting](https://pej2025.com/), NOVA SBE Carcavelos (July 4-6)
 - [40th Meeting of the EEA](https://eea2025.org/), Bordeaux School of Economics (August 25-28) 
