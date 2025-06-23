@@ -18,6 +18,7 @@ comments: w/ Susana Peralta and Diogo Mendes
 #  url: http://example.org
 #projects:
 #- internal-project
+type: "publication"
 publication: "_Working Paper_"
 publication_short: ""
 publication_types:
@@ -29,7 +30,7 @@ tags:
 - Contract Splitting
 - Manipulation
 - Bunching
-- ublic Procurement
+- Public Procurement
 title: Contract Splitting in Public Procurement 
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
