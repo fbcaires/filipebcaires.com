@@ -18,8 +18,10 @@
   <div class="article-container">
 
     {{ if .Params.comments }}
-    <p class="pub-comments">{{ .Params.comments | markdownify }}</p>
-    {{ end }}
+    <p style="font-style: italic; font-size: 1.15em; color: rgba(0, 0, 0, 0.6); margin-top: 1em; margin-bottom: 1em;">
+      {{ .Params.comments | markdownify }}
+    </p>
+    {{ end }}    
 
     {{ if .Params.abstract }}
     <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
