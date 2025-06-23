@@ -1,0 +1,19 @@
+{{ define "main" }}
+  {{ partial "header.html" . }}
+
+  <div class="article-container">
+    <article class="article">
+      {{ .Content }}
+
+      {{ with .Params.comments }}
+        <p class="text-muted"><em>{{ . }}</em></p>
+      {{ end }}
+
+      {{ with .Params.summary }}
+        <p>{{ . }}</p>
+      {{ end }}
+    </article>
+  </div>
+
+  {{ partial "footer.html" . }}
+{{ end }}
