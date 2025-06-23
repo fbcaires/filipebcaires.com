@@ -18,13 +18,16 @@
   <div class="article-container">
 
     {{ if .Params.comments }}
-    <p style="font-style: italic; font-size: 1.15em; color: rgba(0, 0, 0, 0.6); margin-top: 1em; margin-bottom: 1em;">
-      {{ .Params.comments | markdownify }}
+    <p style="font-style: italic; font-size: 0.95em; color: rgba(0, 0, 0, 0.6); margin-top: 1em; margin-bottom: 1em;">
+    {{ .Params.comments | markdownify }}
     </p>
-    {{ end }}    
+    {{ end }} 
 
     {{ if .Params.abstract }}
-    <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
+    <p style="font-weight: bold; font-size: 1em; color: black; margin-top: 1em;">Abstract</p>
+    <p style="font-size: 0.95em; line-height: 1.6; color: rgba(0, 0, 0, 0.85);">
+    {{ .Params.abstract | markdownify }}
+    </p>
     {{ end }}
 
     {{/* If the type is Uncategorized, hide the type. */}}
