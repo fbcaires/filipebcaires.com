@@ -16,7 +16,6 @@ comments: Best Paper Award EAYE 2025
 #  url: http://example.org
 #projects:
 #- internal-project
-type: publication
 publication: "_Working Paper_"
 publication_short: ""
 publication_types:
