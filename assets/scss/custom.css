@@ -1,0 +1,20 @@
+/* Publication single pages (abstract text) */
+
+/* Dark mode */
+body.dark .page-body .pub .article-container > p {
+  color: #e9edf1 !important;
+}
+
+/* Light mode */
+body.light .page-body .pub .article-container > p {
+  color: #222222 !important;
+}
+
+/* Research list pages (summaries) */
+body.dark .publication-summary,
+body.dark .pub-abstract,
+body.dark .article-style { color: #e9edf1 !important; }
+
+body.light .publication-summary,
+body.light .pub-abstract,
+body.light .article-style { color: #222222 !important; }
