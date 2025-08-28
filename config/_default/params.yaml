@@ -118,3 +118,7 @@ security:
 # Custom CSS
 custom_css:
   - "css/custom.css"
+
+assets:
+  css:
+    - "css/custom.css"

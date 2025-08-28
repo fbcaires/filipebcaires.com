@@ -31,11 +31,11 @@
 }
 
 .publication-summary {
-    margin-bottom: 2rem; /* Adds clear space below summary */
-    font-size: 0.9rem; /* Adjust size for readability */
-    line-height: 1.7; /* More spacing between lines */
-    max-width: 75ch; /* Increases words per line */
-    text-align: justify; /* Ensures even spacing */
-    display: block;
-    color: #E9EDF1 !important;   /* pick any readable color */
+  margin-bottom: 2rem; /* keep your spacing */
+  font-size: 0.9rem;   /* keep your size */
+  line-height: 1.7;    /* keep your spacing */
+  max-width: 75ch;     /* keep your width */
+  text-align: justify; /* keep your justification */
+  color: #e9edf1 !important;  /* <-- new readable text color */
+  display: block;
 }
