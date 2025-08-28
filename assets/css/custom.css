@@ -39,3 +39,26 @@
   color: #e9edf1 !important;  /* <-- new readable text color */
   display: block;
 }
+
+/* === Research LIST pages (cards) === */
+body.section-research[data-theme="dark"] .publication-summary,
+body.section-research[data-theme="dark"] .pub-abstract,
+body.section-research[data-theme="dark"] .article-style {
+  color: #e9edf1 !important;   /* dark mode: light text */
+}
+
+body.section-research[data-theme="light"] .publication-summary,
+body.section-research[data-theme="light"] .pub-abstract,
+body.section-research[data-theme="light"] .article-style {
+  color: #222222 !important;    /* light mode: dark text */
+}
+
+/* === Research SINGLE page abstract (your screenshot) === */
+/* Matches the inline-styled <p> inside .pub .article-container */
+body.section-research[data-theme="dark"] .pub .article-container p {
+  color: #e9edf1 !important;
+}
+
+body.section-research[data-theme="light"] .pub .article-container p {
+  color: #222222 !important;
+}
