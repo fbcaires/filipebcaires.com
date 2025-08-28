@@ -37,4 +37,5 @@
     max-width: 75ch; /* Increases words per line */
     text-align: justify; /* Ensures even spacing */
     display: block;
+    color: #E9EDF1 !important;   /* pick any readable color */
 }

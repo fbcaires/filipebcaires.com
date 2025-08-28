@@ -49,4 +49,4 @@ links:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5136707
 ---
 
-_Presented at (*scheduled)_ : EUI; OECD; SciencesPo; HEC Montreal; McGill University; EAYE 2025; *PEJ Meeting 2025; *EEA Congress 2025
+_Presented at (*scheduled)_ : EUI; OECD; SciencesPo; HEC Montreal; McGill University; EAYE 2025; PEJ Meeting 2025; EEA Congress 2025
