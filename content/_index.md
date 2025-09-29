@@ -77,7 +77,7 @@ sections:
   content:
     title: Teaching
     text: |
-      [📄 Teaching Evaluations (PDF)](/uploads/teaching_evaluations.pdf)
+      [Download Teaching Evaluations (PDF)](/uploads/Caires_TeachingEvaluations.pdf)
       {{< myteaching >}}
   design:
     columns: "2"
