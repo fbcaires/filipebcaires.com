@@ -77,6 +77,7 @@ sections:
   content:
     title: Teaching
     text: |
+      [📄 Teaching Evaluations (PDF)](/uploads/teaching_evaluations.pdf)
       {{< myteaching >}}
   design:
     columns: "2"
