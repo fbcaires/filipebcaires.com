@@ -64,10 +64,10 @@ I am a PhD candidate in Economics at the [European University Institute](https:/
 
 During my PhD, I undertook research visits at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and the [Institute for Social Research at the University of Michigan](https://isr.umich.edu/), and served as an economist at the Directorate for Employment, Labour, and Social Affairs at the [OECD](https://www.oecd.org/en.html) for half a year. I am a member of the [LinkEED 2.0](https://www.oecd.org/en/about/projects/linkeed-200.html) research network.
 
-<p style="color:#1E90FF; font-weight:bold; margin-bottom:0.3em;">
+<p style="color:black; font-weight:bold; font-size:1.1em; margin-bottom:0.3em;">
 I am on the 2025/26 Academic Job Market.
 </p>
-<a href="{{ "uploads/academic_references.pdf" | relURL }}"
+<a href="https://filipebcaires.com/uploads/academic_references.pdf"
    target="_blank" rel="noopener"
    style="color:blue; text-decoration:underline; font-weight:normal; margin-top:0;">
   Academic References
