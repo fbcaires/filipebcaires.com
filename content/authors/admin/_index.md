@@ -69,7 +69,7 @@ I am on the 2025/26 Academic Job Market.
 </p>
 <a href="https://filipebcaires.com/uploads/academic_references.pdf"
    target="_blank" rel="noopener"
-   style="color:blue; text-decoration:underline; font-weight:normal; margin-top:0;">
+   style="color:dodgerblue; text-decoration:underline; font-weight:normal; margin-top:0;">
   Academic References
 </a>
 
