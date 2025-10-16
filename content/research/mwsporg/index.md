@@ -6,7 +6,7 @@ date: "2024-12-15T00:00:00Z"
 doi: ""
 featured: false
 presentations: "_Presented at (*scheduled)_: EUI; OECD; SciencesPo; HEC Montreal; McGill University; EAYE2025; PEJ Meeting 2025; *EEA Congress 2025"
-comments: "Best Paper Award EAYE 2025"
+comments: Best Paper Award EAYE 2025
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
 #  focal_point: ""
@@ -29,7 +29,7 @@ tags:
 - Personnel Economics
 - Minimum Wage
 - Minimum Wage Spillovers
-- Firm Organization 
+- Firm Organization
 - Pay Policy
 - Tournaments
 - Pay per Performance
