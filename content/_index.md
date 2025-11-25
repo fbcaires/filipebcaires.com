@@ -69,6 +69,7 @@ sections:
   content:
     title: Research
     text: |
+      My research lies at the intersection of labour, personnel, and public economics. Here, you can find information on my projects with complete drafts. To discuss work in progress, feel free to contact me at [filipe.b.caires@eui.eu](mailto:filipe.b.caires@eui.eu).
       {{< mypublications_list >}}
   design:
     columns: "1"
