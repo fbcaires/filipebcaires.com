@@ -1,0 +1,203 @@
+<style>
+  /* --- Make link boxes ALWAYS appear --- */
+  .pub-boxlink {
+    display: inline-block;
+    margin: 0.2rem 0.5rem 0 0;
+    padding: 0.30rem 0.9rem;
+    border-radius: 8px;
+    border: 1px solid var(--border-color, rgba(200,200,200,0.3));
+    background: var(--bg-soft, rgba(255,255,255,0.05));
+    text-decoration: none !important;
+    font-size: 0.78rem;
+    opacity: 0.9;
+  }
+  .pub-boxlink:hover {
+    opacity: 1;
+    background: var(--bg-hover, rgba(255,255,255,0.12));
+  }
+
+  /* --- Expandable Abstract arrow styling --- */
+  details summary::before {
+    content: "▸ ";
+    font-size: 0.9rem;
+  }
+  details[open] summary::before {
+    content: "▾ ";
+  }
+
+  /* --- SALIENT NOTE STYLING --- */
+  .publication-note {
+    margin-top: 0.6rem;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text-color, #444);
+    padding-left: 0.75rem;
+    border-left: 3px solid rgba(100, 100, 255, 0.4);
+  }
+</style>
+
+
+<div class="my-publications" style="max-width: 110ch; margin: auto; padding: 2rem 0;">
+
+  {{/* All research pages (excluding examples) */}}
+  {{ $all := where (where site.RegularPages "Section" "research") ".Params.example" "ne" true }}
+
+  {{ $working := where $all ".Params.group" "==" "working-paper" }}
+  {{ $wip := where $all ".Params.group" "==" "work-in-progress" }}
+  {{ $published := where $all ".Params.group" "==" "published-policy" }}
+
+  <!-- ===================== WORKING PAPERS ===================== -->
+  {{ if gt (len $working) 0 }}
+  <h3 style="margin-bottom: 1rem; margin-top: 0;">Working papers</h3>
+
+  {{ range $working }}
+    <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin: auto; padding-bottom: 1.3rem;">
+
+      <!-- TITLE -->
+      <div class="publication-title-line" style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.15rem;">
+        <a href="{{ .RelPermalink }}" style="text-decoration: none;">{{ .Title }}</a>
+      </div>
+
+      <!-- COMMENTS (authors etc.) -->
+      {{ with .Params.comments }}
+      <div class="publication-comments" style="margin-top: 0.1rem; font-style: italic; color: var(--text-muted, #777); font-size: 0.8rem;">
+        {{ . | markdownify }}
+      </div>
+      {{ end }}
+
+      <!-- ABSTRACT -->
+      {{ if .Params.summary }}
+      <details class="publication-abstract" style="margin-top: 0.5rem;">
+        <summary style="cursor: pointer; font-size: 0.85rem; opacity: 0.85; list-style: none;">Abstract</summary>
+        <div style="margin-top: 0.4rem; font-size: 0.82rem; line-height: 1.6;">
+          {{ .Params.summary | markdownify }}
+        </div>
+      </details>
+      {{ end }}
+
+      <!-- LINKS -->
+      {{ if .Params.links }}
+      <div class="publication-links" style="margin-top: 0.6rem;">
+        {{ range .Params.links }}
+          <a class="pub-boxlink" href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      <!-- PRESENTATIONS -->
+      {{ with .Params.presentations }}
+      <div class="publication-presentations" style="margin-top: 0.6rem; font-size: 0.8rem; font-style: italic; color: var(--text-muted, #777);">
+        {{ . | markdownify }}
+      </div>
+      {{ end }}
+
+      <!-- NOTE -->
+      {{ with .Params.note }}
+      <div class="publication-note">{{ . | markdownify }}</div>
+      {{ end }}
+
+    </div>
+  {{ end }}
+  {{ end }}
+
+
+
+  <!-- ===================== WORK IN PROGRESS ===================== -->
+  {{ if gt (len $wip) 0 }}
+  <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Work in Progress</h3>
+
+  {{ range $wip }}
+    <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin: auto; padding-bottom: 1.3rem;">
+
+      <div class="publication-title-line" style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.15rem;">
+        <a href="{{ .RelPermalink }}" style="text-decoration: none;">{{ .Title }}</a>
+      </div>
+
+      {{ with .Params.comments }}
+      <div class="publication-comments" style="margin-top: 0.1rem; font-style: italic; color: var(--text-muted, #777); font-size: 0.8rem;">
+        {{ . | markdownify }}
+      </div>
+      {{ end }}
+
+      {{ if .Params.summary }}
+      <details class="publication-abstract" style="margin-top: 0.5rem;">
+        <summary style="cursor: pointer; font-size: 0.85rem; opacity: 0.85; list-style: none;">Abstract</summary>
+        <div style="margin-top: 0.4rem; font-size: 0.82rem; line-height: 1.6;">
+          {{ .Params.summary | markdownify }}
+        </div>
+      </details>
+      {{ end }}
+
+      {{ if .Params.links }}
+      <div class="publication-links" style="margin-top: 0.6rem;">
+        {{ range .Params.links }}
+          <a class="pub-boxlink" href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{ with .Params.presentations }}
+      <div class="publication-presentations" style="margin-top: 0.6rem; font-size: 0.8rem; font-style: italic; color: var(--text-muted, #777);">
+        {{ . | markdownify }}
+      </div>
+      {{ end }}
+
+      {{ with .Params.note }}
+      <div class="publication-note">{{ . | markdownify }}</div>
+      {{ end }}
+
+    </div>
+  {{ end }}
+  {{ end }}
+
+
+
+  <!-- ===================== PUBLICATIONS & POLICY WORK ===================== -->
+  {{ if gt (len $published) 0 }}
+  <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Publications and Policy work</h3>
+
+  {{ range $published }}
+    <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin: auto; padding-bottom: 1.3rem;">
+
+      <div class="publication-title-line" style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.15rem;">
+        <a href="{{ .RelPermalink }}" style="text-decoration: none;">{{ .Title }}</a>
+      </div>
+
+      {{ with .Params.comments }}
+      <div class="publication-comments" style="margin-top: 0.1rem; font-style: italic; color: var(--text-muted, #777); font-size: 0.8rem;">
+        {{ . | markdownify }}
+      </div>
+      {{ end }}
+
+      {{ if .Params.summary }}
+      <details class="publication-abstract" style="margin-top: 0.5rem;">
+        <summary style="cursor: pointer; font-size: 0.85rem; opacity: 0.85; list-style: none;">Abstract</summary>
+        <div style="margin-top: 0.4rem; font-size: 0.82rem; line-height: 1.6;">
+          {{ .Params.summary | markdownify }}
+        </div>
+      </details>
+      {{ end }}
+
+      {{ if .Params.links }}
+      <div class="publication-links" style="margin-top: 0.6rem;">
+        {{ range .Params.links }}
+          <a class="pub-boxlink" href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{ with .Params.presentations }}
+      <div class="publication-presentations" style="margin-top: 0.6rem; font-size: 0.8rem; font-style: italic; color: var(--text-muted, #777);">
+        {{ . | markdownify }}
+      </div>
+      {{ end }}
+
+      {{ with .Params.note }}
+      <div class="publication-note">{{ . | markdownify }}</div>
+      {{ end }}
+
+    </div>
+  {{ end }}
+  {{ end }}
+
+</div>

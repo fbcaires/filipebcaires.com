@@ -20,6 +20,7 @@ comments: w/ Susana Peralta and Diogo Mendes
 #- internal-project
 type: "publication"
 publication: "_Working Paper_"
+group: "working-paper"
 publication_short: ""
 publication_types:
 - "3"

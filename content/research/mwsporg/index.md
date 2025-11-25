@@ -14,9 +14,10 @@ doi: ""
 publication: "_Working Paper_"
 publication_short: ""
 publication_types: ["3"]
+group: "working-paper"
 
 comments: "Best Paper Award EAYE 2025"
-presentations: "_Presented at (*scheduled)_: EUI; OECD; Sciences Po; HEC Montreal; McGill University; EAYE 2025; PEJ Meeting 2025; *EEA Congress 2025; *SAEe UABarcelona; Econometric Society Winter Meetings, UCyprus"
+presentations: "_Presented at (*scheduled)_: EUI; OECD; Sciences Po; HEC Montreal; McGill University; EAYE 2025; PEJ Meeting 2025; *EEA Congress 2025; *SAEe UABarcelona; *Econometric Society Winter Meetings, UCyprus"
 
 tags:
   - "Labour Economics"

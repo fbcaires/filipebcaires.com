@@ -69,7 +69,7 @@ sections:
   content:
     title: Research
     text: |
-      {{< mypublications >}}
+      {{< mypublications_list >}}
   design:
     columns: "1"
   id: research
