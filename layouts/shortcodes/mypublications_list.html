@@ -16,7 +16,7 @@
     background: var(--bg-hover, rgba(255,255,255,0.12));
   }
 
-  /* --- Expandable Abstract arrow styling --- */
+  /* --- Expandable Abstract arrow styling (used outside Working Papers) --- */
   details summary::before {
     content: "▸ ";
     font-size: 0.9rem;
@@ -48,7 +48,7 @@
 
   <!-- ===================== WORKING PAPERS ===================== -->
   {{ if gt (len $working) 0 }}
-  <h3 style="margin-bottom: 1rem; margin-top: 0;">Working papers</h3>
+  <h3 style="margin-bottom: 1rem; margin-top: 0;">Job Market Paper</h3>
 
   {{ range $working }}
     <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin: auto; padding-bottom: 1.3rem;">
@@ -65,14 +65,11 @@
       </div>
       {{ end }}
 
-      <!-- ABSTRACT -->
+      <!-- ABSTRACT ALWAYS VISIBLE (no toggle for working papers) -->
       {{ if .Params.summary }}
-      <details class="publication-abstract" style="margin-top: 0.5rem;">
-        <summary style="cursor: pointer; font-size: 0.85rem; opacity: 0.85; list-style: none;">Abstract</summary>
-        <div style="margin-top: 0.4rem; font-size: 0.82rem; line-height: 1.6;">
-          {{ .Params.summary | markdownify }}
-        </div>
-      </details>
+      <div class="publication-abstract" style="margin-top: 0.5rem; font-size: 0.82rem; line-height: 1.6;">
+        {{ .Params.summary | markdownify }}
+      </div>
       {{ end }}
 
       <!-- LINKS -->
@@ -102,11 +99,11 @@
 
 
 
-  <!-- ===================== WORK IN PROGRESS ===================== -->
+   <!-- ===================== WORK IN PROGRESS ===================== -->
   {{ if gt (len $wip) 0 }}
   <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Work in Progress</h3>
 
-  {{ range $wip }}
+  {{ range sort $wip "Date" "asc" }}
     <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin: auto; padding-bottom: 1.3rem;">
 
       <div class="publication-title-line" style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.15rem;">
@@ -149,7 +146,6 @@
     </div>
   {{ end }}
   {{ end }}
-
 
 
   <!-- ===================== PUBLICATIONS & POLICY WORK ===================== -->

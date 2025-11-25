@@ -65,8 +65,14 @@ I am a PhD candidate in Economics at the [European University Institute](https:/
 During my PhD, I undertook research visits at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and the [Institute for Social Research at the University of Michigan](https://isr.umich.edu/), and served as an economist at the Directorate for Employment, Labour, and Social Affairs at the [OECD](https://www.oecd.org/en.html) for half a year. I am a member of the [LinkEED 2.0](https://www.oecd.org/en/about/projects/linkeed-200.html) research network and a Board Memeber of the European Association for Young Economists [(EAYE)](https://www.eaye.info/home).
 
 <p style="color:var(--body-color); font-weight:bold; font-size:1.1em; margin-bottom:0.3em;">
-I am on the 2025/26 Job Market.
+  I am on the 2025/26 Job Market. 
+  Read my
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5136707"
+     style="color:dodgerblue; text-decoration:underline; font-weight:normal;">
+     Job Market Paper
+  </a>.
 </p>
+
 <a href="https://filipebcaires.com/uploads/academic_references.pdf"
    target="_blank" rel="noopener"
    style="color:dodgerblue; text-decoration:underline; font-weight:normal; margin-top:0;">

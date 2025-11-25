@@ -62,5 +62,7 @@ summary: >-
 links:
   - name: "SSRN"
     url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5136707"
+  - name: Read an interview about the Paper
+    url: "https://www.eui.eu/news-hub?id=filipe-b.-caires-draft"
 ---
 _Presented at (*scheduled)_: EUI; OECD; Sciences Po; HEC Montreal; McGill University; EAYE 2025; PEJ Meeting 2025; EEA Congress 2025; *SAEe UABarcelona; *Econometric Society Winter Meetings, UCyprus
