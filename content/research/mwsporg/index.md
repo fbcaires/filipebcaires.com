@@ -16,7 +16,21 @@ publication_short: ""
 publication_types: ["3"]
 group: "working-paper"
 
-comments: "Best Paper Award EAYE 2025"
+comments: '<span style="
+  display:inline-block;
+  margin-top:0.35rem;
+  padding:0.25rem 0.65rem;
+  font-style:italic;
+  font-weight:400;
+  font-size:0.92rem;
+  border:1px solid rgba(0,0,0,0.15);
+  border-radius:6px;
+  background:rgba(0,0,0,0.03);
+">
+  Best Paper Award · EAYE 2025
+</span>'
+
+
 presentations: "_Presented at (*scheduled)_: EUI; OECD; Sciences Po; HEC Montreal; McGill University; EAYE 2025; PEJ Meeting 2025; *EEA Congress 2025; *SAEe UABarcelona; *Econometric Society Winter Meetings, UCyprus"
 
 tags:
