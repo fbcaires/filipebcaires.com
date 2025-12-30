@@ -31,7 +31,7 @@ comments: '<span style="
 </span>'
 
 
-presentations: "_Presented at (*scheduled)_: EUI; OECD; Sciences Po; HEC Montreal; McGill University; EAYE 2025; PEJ Meeting 2025; *EEA Congress 2025; *SAEe UABarcelona; *Econometric Society Winter Meetings, UCyprus"
+presentations: "_Presented at (*scheduled)_: EUI; OECD; Sciences Po; HEC Montreal; McGill University; EAYE 2025; PEJ Meeting 2025; EEA Congress 2025; SAEe UABarcelona; Econometric Society Winter Meetings, UCyprus"
 
 tags:
   - "Labour Economics"
@@ -79,4 +79,4 @@ links:
   - name: Read an interview about the Paper
     url: "https://www.eui.eu/news-hub?id=filipe-b.-caires-draft"
 ---
-_Presented at (*scheduled)_: EUI; OECD; Sciences Po; HEC Montreal; McGill University; EAYE 2025; PEJ Meeting 2025; EEA Congress 2025; *SAEe UABarcelona; *Econometric Society Winter Meetings, UCyprus
+_Presented at (*scheduled)_: EUI; OECD; Sciences Po; HEC Montreal; McGill University; EAYE 2025; PEJ Meeting 2025; EEA Congress 2025; SAEe UABarcelona; Econometric Society Winter Meetings, UCyprus
