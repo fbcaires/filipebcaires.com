@@ -43,7 +43,7 @@ comments:
       border-radius:6px;
       background:rgba(0,0,0,0.03);
     ">
-      PhD Student Fellowship · SAEe 2025 
+      PhD Student Fellowship · SAEe 2025
     </span>
 
 presentations: "_Presented at (*scheduled)_: EUI; OECD; Sciences Po; HEC Montreal; McGill University; EAYE 2025; PEJ Meeting 2025; EEA Congress 2025; SAEe UABarcelona; Econometric Society Winter Meetings, UCyprus"
