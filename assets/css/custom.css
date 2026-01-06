@@ -15,14 +15,14 @@
 /* Comments container (incl. awards) */
 .my-publications .publication-comments,
 .publication-presentations {
-  margin-top: 0.75rem;       /* reduced from 2rem */
+  margin-top: 0.75rem;
   font-size: 0.9rem;
-  font-style: normal;        /* do not force italics globally */
+  font-style: normal;
   display: block;
-  color: rgba(0,0,0,.65);    /* default (light) */
+  color: rgba(0,0,0,.65);
 }
 
-/* Ensure comment container reads well by theme */
+/* Theme-aware comments color */
 body.section-research[data-theme="dark"] .my-publications .publication-comments,
 body.section-research[data-theme="dark"] .publication-presentations {
   color: rgba(233,237,241,.80);
@@ -42,7 +42,7 @@ body.section-research[data-theme="light"] .publication-presentations {
   padding: 0.2rem 0.5rem;
 }
 
-/* (Optional / legacy) If you are no longer using pill badges, you can remove this */
+/* Optional legacy badge style (unused if using awards-block) */
 .award-badge {
   display: inline-block;
   padding: 0.15rem 0.75rem;
@@ -60,7 +60,6 @@ body.section-research[data-theme="light"] .publication-presentations {
   line-height: 1.7;
   max-width: 75ch;
   text-align: justify;
-  color: #e9edf1 !important;
   display: block;
 }
 
@@ -86,42 +85,38 @@ body.section-research[data-theme="light"] .pub .article-container p {
   color: #222222 !important;
 }
 
-/* === Awards block under title (one award per line, more salient) === */
-.awards-block{
+/* === Awards block (salient, one per line) === */
+.awards-block {
   margin-top: 0.6rem;
   margin-bottom: 1.2rem;
-  font-size: 1rem;
-  line-height: 1.35;
-
+  font-size: 1.05rem;
+  line-height: 1.4;
   padding-left: 0.75rem;
-  border-left: 2px solid rgba(0,0,0,.08);
+  border-left: 2px solid rgba(0,0,0,.12);
 }
 
-.awards-title{
+.awards-title {
   font-weight: 600;
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  margin-bottom: 0.3rem;
-  color: rgba(0,0,0,.55);
+  margin-bottom: 0.35rem;
+  color: #000;
 }
 
-.award-item{
+.award-item {
   font-weight: 500;
   font-style: italic;
-  margin: 0.15rem 0;
-  color: rgba(0,0,0,.75);
+  margin: 0.2rem 0;
+  color: #000;
 }
 
-/* Dark mode */
-body.section-research[data-theme="dark"] .awards-block{
-  border-left-color: rgba(233,237,241,.15);
+/* Dark mode awards */
+body.section-research[data-theme="dark"] .awards-block {
+  border-left-color: rgba(233,237,241,.25);
 }
 
-body.section-research[data-theme="dark"] .awards-title{
-  color: rgba(233,237,241,.65);
-}
-
-body.section-research[data-theme="dark"] .award-item{
-  color: rgba(233,237,241,.90);
+body.section-research[data-theme="dark"] .awards-title,
+body.section-research[data-theme="dark"] .award-item {
+  color: #e9edf1;
 }
