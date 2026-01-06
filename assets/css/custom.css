@@ -1,54 +1,66 @@
 .my-publications .publication-entry {
-    box-shadow: none !important;
-    border: none !important;
-    background: transparent !important;
-    margin-bottom: 1rem;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid #eaeaea;
+  box-shadow: none !important;
+  border: none !important;
+  background: transparent !important;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eaeaea;
 }
 
 .my-publications .publication-title {
-    font-size: 1.2rem;
-    margin-bottom: 0.3rem;
+  font-size: 1.2rem;
+  margin-bottom: 0.3rem;
 }
 
 /* Comments container (incl. awards) */
 .my-publications .publication-comments,
 .publication-presentations {
-  margin-top: 0.75rem;       /* was 2rem; reduce so awards sit closer to title */
+  margin-top: 0.75rem;       /* reduced from 2rem */
   font-size: 0.9rem;
-  color: rgba(0,0,0,.65);    /* base; theme overrides below */
-  font-style: normal;        /* IMPORTANT: do not force italics globally */
+  font-style: normal;        /* do not force italics globally */
   display: block;
+  color: rgba(0,0,0,.65);    /* default (light) */
+}
+
+/* Ensure comment container reads well by theme */
+body.section-research[data-theme="dark"] .my-publications .publication-comments,
+body.section-research[data-theme="dark"] .publication-presentations {
+  color: rgba(233,237,241,.80);
+}
+
+body.section-research[data-theme="light"] .my-publications .publication-comments,
+body.section-research[data-theme="light"] .publication-presentations {
+  color: rgba(0,0,0,.65);
 }
 
 .my-publications .publication-abstract {
-    font-size: 0.9rem;
+  font-size: 0.9rem;
 }
 
 .my-publications .publication-links .btn {
-    font-size: 0.8rem;
-    padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+  padding: 0.2rem 0.5rem;
 }
 
+/* (Optional / legacy) If you are no longer using pill badges, you can remove this */
 .award-badge {
   display: inline-block;
   padding: 0.15rem 0.75rem;
   margin-top: 0.25rem;
   border-radius: 999px;
   font-weight: 600;
-  font-style: normal;         /* overrides the italic in .publication-comments */
+  font-style: normal;
   color: var(--primary-color, #0056b3);
-  background: rgba(100, 149, 237, 0.08); /* very light blue */
+  background: rgba(100, 149, 237, 0.08);
 }
 
 .publication-summary {
-  margin-bottom: 2rem; /* keep your spacing */
-  font-size: 0.9rem;   /* keep your size */
-  line-height: 1.7;    /* keep your spacing */
-  max-width: 75ch;     /* keep your width */
-  text-align: justify; /* keep your justification */
-  color: #e9edf1 !important;  /* <-- new readable text color */
+  margin-bottom: 2rem;
+  font-size: 0.9rem;
+  line-height: 1.7;
+  max-width: 75ch;
+  text-align: justify;
+  color: #e9edf1 !important;
   display: block;
 }
 
@@ -56,17 +68,16 @@
 body.section-research[data-theme="dark"] .publication-summary,
 body.section-research[data-theme="dark"] .pub-abstract,
 body.section-research[data-theme="dark"] .article-style {
-  color: #e9edf1 !important;   /* dark mode: light text */
+  color: #e9edf1 !important;
 }
 
 body.section-research[data-theme="light"] .publication-summary,
 body.section-research[data-theme="light"] .pub-abstract,
 body.section-research[data-theme="light"] .article-style {
-  color: #222222 !important;    /* light mode: dark text */
+  color: #222222 !important;
 }
 
-/* === Research SINGLE page abstract (your screenshot) === */
-/* Matches the inline-styled <p> inside .pub .article-container */
+/* === Research SINGLE page abstract === */
 body.section-research[data-theme="dark"] .pub .article-container p {
   color: #e9edf1 !important;
 }
@@ -75,45 +86,42 @@ body.section-research[data-theme="light"] .pub .article-container p {
   color: #222222 !important;
 }
 
-/* Awards line (Option 1) */
-.awards{
-  margin-top: .4rem;
-  display: flex;
-  flex-wrap: wrap;
-  gap: .25rem .5rem;
-  align-items: baseline;
-  font-size: .9rem;
-  line-height: 1.25;
+/* === Awards block under title (one award per line, more salient) === */
+.awards-block{
+  margin-top: 0.6rem;
+  margin-bottom: 1.2rem;
+  font-size: 1rem;
+  line-height: 1.35;
+
+  padding-left: 0.75rem;
+  border-left: 2px solid rgba(0,0,0,.08);
 }
 
-.awards__label{
+.awards-title{
   font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.3rem;
   color: rgba(0,0,0,.55);
-  letter-spacing: .02em;
 }
 
-.awards__item{
+.award-item{
+  font-weight: 500;
   font-style: italic;
+  margin: 0.15rem 0;
+  color: rgba(0,0,0,.75);
 }
 
-.awards__sep{
-  color: rgba(0,0,0,.35);
+/* Dark mode */
+body.section-research[data-theme="dark"] .awards-block{
+  border-left-color: rgba(233,237,241,.15);
 }
 
-
-/* Awards colors by theme */
-body.section-research[data-theme="dark"] .awards{
-  color: rgba(233,237,241,.85);
-}
-
-body.section-research[data-theme="dark"] .awards__label{
+body.section-research[data-theme="dark"] .awards-title{
   color: rgba(233,237,241,.65);
 }
 
-body.section-research[data-theme="dark"] .awards__sep{
-  color: rgba(233,237,241,.35);
-}
-
-body.section-research[data-theme="light"] .awards{
-  color: rgba(0,0,0,.65);
+body.section-research[data-theme="dark"] .award-item{
+  color: rgba(233,237,241,.90);
 }
