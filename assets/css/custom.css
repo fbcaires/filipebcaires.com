@@ -12,20 +12,20 @@
   margin-bottom: 0.3rem;
 }
 
-/* Comments container (incl. awards) */
 .my-publications .publication-comments,
 .publication-presentations {
   margin-top: 0.75rem;
-  font-size: 0.9rem;
-  font-style: normal;
+  font-size: 1.05rem;   /* larger */
+  font-style: italic;   /* academic metadata look */
   display: block;
-  color: rgba(0,0,0,.65);
+  line-height: 1.4;
+  color: #000;          /* black */
 }
 
 /* Theme-aware comments color */
 body.section-research[data-theme="dark"] .my-publications .publication-comments,
 body.section-research[data-theme="dark"] .publication-presentations {
-  color: rgba(233,237,241,.80);
+  color: #e9edf1;
 }
 
 body.section-research[data-theme="light"] .my-publications .publication-comments,
