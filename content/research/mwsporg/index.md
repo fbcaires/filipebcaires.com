@@ -18,9 +18,8 @@ group: "working-paper"
 
 comments: |
   <div class="awards-block">
-    <div class="awards-title">Awards</div>
-    <div class="award-item">Best Paper Award · EAYE 2025</div>
-    <div class="award-item">PhD Student Fellowship · SAEE 2025</div>
+    <div class="award-item">Awarded Best Paper Prize · EAYE 2025</div>
+    <div class="award-item">Awarded PhD Student Fellowship · SAEE 2025</div>
   </div>
 
 presentations: "_Presented at (*scheduled)_: EUI; OECD; Sciences Po; HEC Montreal; McGill University; EAYE 2025; PEJ Meeting 2025; EEA Congress 2025; SAEe UABarcelona; Econometric Society Winter Meetings, UCyprus"
