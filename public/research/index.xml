@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | - FILIPE B. CAIRES -</title>
+    <link>https://filipebcaires.com/research/</link>
+      <atom:link href="https://filipebcaires.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://filipebcaires.com/media/icon_huc23135bc6e064c1c3f6d8c4d6025a7a6_14558_512x512_fill_lanczos_center_3.png</url>
+      <title>Research</title>
+      <link>https://filipebcaires.com/research/</link>
+    </image>
+    
+    <item>
+      <title>The Graying Job Ladder: The Role of Ageing for Reallocation and Growth</title>
+      <link>https://filipebcaires.com/research/linkeed20_1/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/research/linkeed20_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labour Market Effects of Declining Teen Employment</title>
+      <link>https://filipebcaires.com/research/csl_llm/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/research/csl_llm/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Presented at&lt;/em&gt; (*scheduled): ISEG Lisbon Micro Group Lisbon; EUI; Aix-Marselle School of Economics; *LESE 2026, NovaSBE&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internal Organization of Firms and Minimum Wage Spillovers</title>
+      <link>https://filipebcaires.com/research/mwsporg/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/research/mwsporg/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Presented at (*scheduled)&lt;/em&gt;: EUI; OECD; Sciences Po; HEC Montreal; McGill University; EAYE 2025; PEJ Meeting 2025; EEA Congress 2025; SAEe UABarcelona; Econometric Society Winter Meetings, UCyprus&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contract Splitting in Public Procurement</title>
+      <link>https://filipebcaires.com/research/cspp/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/research/cspp/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Presented at&lt;/em&gt; : ISEG Lisbon Micro Group Lisbon; EUI; Utrecht USE Workshop on Lobbying and Political Influence; UniTo-CCA PhD Workshop in Economics&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

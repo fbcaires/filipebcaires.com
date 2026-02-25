@@ -33,6 +33,7 @@ tags:
 - Bunching
 - Public Procurement
 title: Contract Splitting in Public Procurement 
+weight: 1
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
 #url_pdf:  #http://arxiv.org/pdf/1512.04133v1

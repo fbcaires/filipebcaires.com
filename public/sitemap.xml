@@ -2,64 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://filipebcaires.com/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://filipebcaires.com/publication-type/3/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/tag/firm-organization/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/publication/mwsporg/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/tag/labour-economics/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/tag/minimum-wage/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/tag/minimum-wage-spillovers/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/tag/pay-per-performance/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/tag/pay-policy/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/tag/personnel-economics/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://filipebcaires.com/publication_types/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://filipebcaires.com/publication/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <loc>https://filipebcaires.com/research/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/research/linkeed20_1/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/research/csl_llm/</loc>
+    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/tag/firm-organization/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/research/mwsporg/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/tag/labour-economics/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/tag/minimum-wage/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/tag/minimum-wage-spillovers/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/tag/pay-per-performance/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/tag/pay-policy/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/tag/personnel-economics/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://filipebcaires.com/tags/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://filipebcaires.com/tag/tournaments/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/teaching/microeconomics/</loc>
+    <lastmod>2024-04-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/teaching/</loc>
+    <lastmod>2024-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://filipebcaires.com/tag/bunching/</loc>
@@ -70,7 +78,7 @@
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://filipebcaires.com/publication/cspp/</loc>
+    <loc>https://filipebcaires.com/research/cspp/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -78,7 +86,7 @@
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://filipebcaires.com/tag/ublic-procurement/</loc>
+    <loc>https://filipebcaires.com/tag/public-procurement/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -102,16 +110,20 @@
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://filipebcaires.com/publication/pre_phd/</loc>
+    <loc>https://filipebcaires.com/research/pre_phd/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://filipebcaires.com/publication/pre_phd/survival/</loc>
+    <loc>https://filipebcaires.com/research/pre_phd/survival/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://filipebcaires.com/tag/tourism-exposure/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/teaching/econometrics/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://filipebcaires.com/tag/academic/</loc>
@@ -162,6 +174,14 @@
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://filipebcaires.com/teaching/metris2/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/teaching/econeduc/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://filipebcaires.com/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -178,45 +198,10 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://filipebcaires.com/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://filipebcaires.com/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://filipebcaires.com/teaching/metris2/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/teaching/econeduc/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://filipebcaires.com/teaching/microeconometrics/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/teaching/microeconomics/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/teaching/econometrics/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/teaching/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

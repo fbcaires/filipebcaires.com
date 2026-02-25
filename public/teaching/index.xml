@@ -5,7 +5,7 @@
     <link>https://filipebcaires.com/teaching/</link>
       <atom:link href="https://filipebcaires.com/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://filipebcaires.com/media/icon_huc23135bc6e064c1c3f6d8c4d6025a7a6_14558_512x512_fill_lanczos_center_3.png</url>
       <title>Teachings</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>Microeconomics III - Information Economics and Social Choice</title>
+      <link>https://filipebcaires.com/teaching/microeconomics/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/teaching/microeconomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics and Econometrics II - Econometrics of Microdata</title>
+      <link>https://filipebcaires.com/teaching/econometrics/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/teaching/econometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Econometrics II</title>
       <link>https://filipebcaires.com/teaching/metris2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://filipebcaires.com/teaching/metris2/</guid>
       <description></description>
     </item>
@@ -23,7 +39,7 @@
     <item>
       <title>Economics of Education</title>
       <link>https://filipebcaires.com/teaching/econeduc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://filipebcaires.com/teaching/econeduc/</guid>
       <description></description>
     </item>
@@ -33,22 +49,6 @@
       <link>https://filipebcaires.com/teaching/microeconometrics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://filipebcaires.com/teaching/microeconometrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microeconomics III - Information Economics and Social Choice</title>
-      <link>https://filipebcaires.com/teaching/microeconomics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipebcaires.com/teaching/microeconomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistics and Econometrics II - Econometrics of Microdata</title>
-      <link>https://filipebcaires.com/teaching/econometrics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipebcaires.com/teaching/econometrics/</guid>
       <description></description>
     </item>
     

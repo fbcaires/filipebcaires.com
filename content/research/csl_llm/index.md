@@ -29,6 +29,7 @@ publishDate: "2025-11-15T00:00:00Z"
 summary: Teen employment has fallen sharply across advanced economies, reducing firms’ access to a traditionally flexible and low-cost source of labour, yet little is known about how they adapt to this shift. This paper studies how firms and labour markets adjust to an exogenous contraction in teen labour supply, exploiting Portugal’s 2009 compulsory schooling reform, which raised the minimum school-leaving age to 18. Using matched employer–employee data covering all private-sector firms between 2002 and 2016, we construct local labour market exposure measures capturing both the intensity and persistence of pre-reform reliance on teen workers and estimate event-study models comparing more and less exposed units. The reform led to a sharp and lasting reduction in teen employment and on-the-job training. Firms compensated primarily by hiring slightly older workers, without upgrading skills or wages, suggesting adjustment along cost rather than productivity margins. Ongoing work explores implications for productivity, capital expenditures, and technology adoption.
 tags:
 title: Labour Market Effects of Declining Teen Employment
+weight: 3
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
 #url_pdf:  #http://arxiv.org/pdf/1512.04133v1

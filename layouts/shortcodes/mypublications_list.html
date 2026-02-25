@@ -103,7 +103,7 @@
   {{ if gt (len $wip) 0 }}
   <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Working Papers</h3>
 
-  {{ range sort $wip "Date" "asc" }}
+  {{ range sort $wip "Params.weight" "asc" }}
     <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin: auto; padding-bottom: 1.3rem;">
 
       <div class="publication-title-line" style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.15rem;">
