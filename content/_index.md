@@ -76,6 +76,16 @@ sections:
   id: research
 - block: markdown
   content:
+    title: CV and References
+    text: |
+      [**Curriculum Vitae**](/uploads/resume.pdf) — Download PDF
+
+      [**Academic References**](/uploads/academic_references.pdf) — Download PDF
+  design:
+    columns: "1"
+  id: cv
+- block: markdown
+  content:
     title: Teaching
     text: |
       [Download Teaching Evaluations (PDF)](/uploads/Caires_TeachingEvaluations.pdf)
@@ -95,8 +105,8 @@ sections:
     # appointment_url: https://calendly.com
     # autolink: true
     contact_links:
-    - icon: x-twitter
-      icon_pack: custom
+    - icon: twitter
+      icon_pack: fab
       link: https://twitter.com/fbcaires
       name: fbcaires
     # - icon: skype

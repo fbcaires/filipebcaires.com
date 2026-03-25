@@ -39,9 +39,9 @@ social:
   link: mailto:filipe.b.caires@eui.eu
 - display:
     header: true
-  icon: x-twitter
-  icon_pack: custom
-  label: Follow me on X
+  icon: twitter
+  icon_pack: fab
+  label: Follow me on Twitter
   link: https://twitter.com/fbcaires
 #- icon: graduation-cap
 #  icon_pack: fas
