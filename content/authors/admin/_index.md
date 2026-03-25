@@ -78,7 +78,7 @@ During my PhD, I undertook research visits at [HEC Montréal](https://www.hec.ca
      Job Market Paper
   </a>.
 </p>
-
+-->
 
 Recent and Upcoming Talks: 
 - [EAYE 2025](https://www.eaye.info/eayeam/2025-edition), King's College London (May 29-31)
@@ -86,4 +86,3 @@ Recent and Upcoming Talks:
 - [40th Meeting of the EEA](https://eea2025.org/), Bordeaux School of Economics (August 25-28) 
 - [Econometric Society Winter Meeting 2025](https://www.econometricsociety.org/regional-activities/schedule/2025/12/07/2025-European-Winter-Meeting-Nicosia-Cyprus), University of Cyprus (December 7-9) 
 - [SAEe 2025](https://asesec.org/simposio-de-la-asociacion-espanola-de-economia/), Universitat Autònoma de Barcelona (December 17-19)
--->
