@@ -1,11 +1,3 @@
-/* Research subtitle paragraph styling */
-#research .section-heading p {
-  margin-top: 3.5rem !important;
-  font-size: 0.62rem !important;
-  color: #999;
-  line-height: 1.5;
-}
-
 /* Custom SVG social icons (e.g. X/Twitter) */
 .network-icon a svg {
   width: 1.1em;
@@ -66,8 +58,8 @@ body.section-research[data-theme="light"] .publication-presentations {
   border-radius: 999px;
   font-weight: 600;
   font-style: normal;
-  color: var(--primary-color, #0056b3);
-  background: rgba(100, 149, 237, 0.08);
+  color: var(--primary-color, #072660);
+  background: rgba(7, 38, 96, 0.08);
 }
 
 .publication-summary {

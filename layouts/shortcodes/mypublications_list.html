@@ -32,12 +32,12 @@
     font-weight: 500;
     color: var(--text-color, #444);
     padding-left: 0.75rem;
-    border-left: 3px solid rgba(100, 100, 255, 0.4);
+    border-left: 3px solid rgba(7, 38, 96, 0.4);
   }
 </style>
 
 
-<div class="my-publications" style="max-width: 110ch; margin: auto; padding: 2rem 0;">
+<div class="my-publications" style="max-width: 110ch; margin: auto; padding-bottom: 2rem;">
 
   {{/* All research pages (excluding examples) */}}
   {{ $all := where (where site.RegularPages "Section" "research") ".Params.example" "ne" true }}
@@ -48,42 +48,41 @@
 
   <!-- ===================== WORKING PAPERS (JMP first, then others) ===================== -->
   {{ if or (gt (len $working) 0) (gt (len $wip) 0) }}
-  <h3 style="margin-bottom: 1rem; margin-top: 0;">Working Papers</h3>
+  <h3 style="margin-bottom: 1.6rem; margin-top: 0;">Working Papers</h3>
 
   {{/* Job market paper(s) first */}}
   {{ range $working }}
-    <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin: auto; padding-bottom: 1.3rem;">
+    <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.4; margin: auto; padding-bottom: 2rem;">
 
-      <div class="publication-title-line" style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.15rem;">
+      <h3 class="publication-title-line" style="font-size: 1.1rem !important; margin-bottom: 0.2rem; margin-top: 0;">
         <a href="{{ .RelPermalink }}" style="text-decoration: none;">{{ .Title }}</a>
-      </div>
+      </h3>
 
       {{ with .Params.comments }}
-      <div class="publication-comments" style="margin-top: 0.1rem; font-style: italic; color: var(--text-muted, #777); font-size: 0.8rem;">
+      <div class="publication-comments" style="margin-top: 0.05rem; font-style: italic; color: var(--text-muted, #777); font-size: 0.8rem;">
         {{ . | markdownify }}
       </div>
       {{ end }}
 
       {{ if .Params.summary }}
-      <details class="publication-abstract" style="margin-top: 0.5rem;">
+      <details class="publication-abstract" style="margin-top: 0.3rem;">
         <summary style="cursor: pointer; font-size: 0.85rem; opacity: 0.85; list-style: none;">Abstract</summary>
         <div style="margin-top: 0.4rem; font-size: 0.82rem; line-height: 1.6;">
           {{ .Params.summary | markdownify }}
         </div>
+        {{ with .Params.presentations }}
+        <div class="publication-presentations" style="margin-top: 0.5rem; font-size: 0.8rem; font-style: italic; color: var(--text-muted, #777);">
+          {{ . | markdownify }}
+        </div>
+        {{ end }}
       </details>
       {{ end }}
 
       {{ if .Params.links }}
-      <div class="publication-links" style="margin-top: 0.6rem;">
+      <div class="publication-links" style="margin-top: 0.3rem;">
         {{ range .Params.links }}
           <a class="pub-boxlink" href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
         {{ end }}
-      </div>
-      {{ end }}
-
-      {{ with .Params.presentations }}
-      <div class="publication-presentations" style="margin-top: 0.6rem; font-size: 0.8rem; font-style: italic; color: var(--text-muted, #777);">
-        {{ . | markdownify }}
       </div>
       {{ end }}
 
@@ -96,38 +95,37 @@
 
   {{/* Other working papers */}}
   {{ range sort $wip "Params.weight" "asc" }}
-    <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin: auto; padding-bottom: 1.3rem;">
+    <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.4; margin: auto; padding-bottom: 2rem;">
 
-      <div class="publication-title-line" style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.15rem;">
+      <h3 class="publication-title-line" style="font-size: 1.1rem !important; margin-bottom: 0.2rem; margin-top: 0;">
         <a href="{{ .RelPermalink }}" style="text-decoration: none;">{{ .Title }}</a>
-      </div>
+      </h3>
 
       {{ with .Params.comments }}
-      <div class="publication-comments" style="margin-top: 0.1rem; font-style: italic; color: var(--text-muted, #777); font-size: 0.8rem;">
+      <div class="publication-comments" style="margin-top: 0.05rem; font-style: italic; color: var(--text-muted, #777); font-size: 0.8rem;">
         {{ . | markdownify }}
       </div>
       {{ end }}
 
       {{ if .Params.summary }}
-      <details class="publication-abstract" style="margin-top: 0.5rem;">
+      <details class="publication-abstract" style="margin-top: 0.3rem;">
         <summary style="cursor: pointer; font-size: 0.85rem; opacity: 0.85; list-style: none;">Abstract</summary>
         <div style="margin-top: 0.4rem; font-size: 0.82rem; line-height: 1.6;">
           {{ .Params.summary | markdownify }}
         </div>
+        {{ with .Params.presentations }}
+        <div class="publication-presentations" style="margin-top: 0.5rem; font-size: 0.8rem; font-style: italic; color: var(--text-muted, #777);">
+          {{ . | markdownify }}
+        </div>
+        {{ end }}
       </details>
       {{ end }}
 
       {{ if .Params.links }}
-      <div class="publication-links" style="margin-top: 0.6rem;">
+      <div class="publication-links" style="margin-top: 0.3rem;">
         {{ range .Params.links }}
           <a class="pub-boxlink" href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
         {{ end }}
-      </div>
-      {{ end }}
-
-      {{ with .Params.presentations }}
-      <div class="publication-presentations" style="margin-top: 0.6rem; font-size: 0.8rem; font-style: italic; color: var(--text-muted, #777);">
-        {{ . | markdownify }}
       </div>
       {{ end }}
 
@@ -145,38 +143,37 @@
   <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Publications and Policy Work</h3>
 
   {{ range $published }}
-    <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin: auto; padding-bottom: 1.3rem;">
+    <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.4; margin: auto; padding-bottom: 2rem;">
 
-      <div class="publication-title-line" style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.15rem;">
+      <h3 class="publication-title-line" style="font-size: 1.1rem !important; margin-bottom: 0.2rem; margin-top: 0;">
         <a href="{{ .RelPermalink }}" style="text-decoration: none;">{{ .Title }}</a>
-      </div>
+      </h3>
 
       {{ with .Params.comments }}
-      <div class="publication-comments" style="margin-top: 0.1rem; font-style: italic; color: var(--text-muted, #777); font-size: 0.8rem;">
+      <div class="publication-comments" style="margin-top: 0.05rem; font-style: italic; color: var(--text-muted, #777); font-size: 0.8rem;">
         {{ . | markdownify }}
       </div>
       {{ end }}
 
       {{ if .Params.summary }}
-      <details class="publication-abstract" style="margin-top: 0.5rem;">
+      <details class="publication-abstract" style="margin-top: 0.3rem;">
         <summary style="cursor: pointer; font-size: 0.85rem; opacity: 0.85; list-style: none;">Abstract</summary>
         <div style="margin-top: 0.4rem; font-size: 0.82rem; line-height: 1.6;">
           {{ .Params.summary | markdownify }}
         </div>
+        {{ with .Params.presentations }}
+        <div class="publication-presentations" style="margin-top: 0.5rem; font-size: 0.8rem; font-style: italic; color: var(--text-muted, #777);">
+          {{ . | markdownify }}
+        </div>
+        {{ end }}
       </details>
       {{ end }}
 
       {{ if .Params.links }}
-      <div class="publication-links" style="margin-top: 0.6rem;">
+      <div class="publication-links" style="margin-top: 0.3rem;">
         {{ range .Params.links }}
           <a class="pub-boxlink" href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
         {{ end }}
-      </div>
-      {{ end }}
-
-      {{ with .Params.presentations }}
-      <div class="publication-presentations" style="margin-top: 0.6rem; font-size: 0.8rem; font-style: italic; color: var(--text-muted, #777);">
-        {{ . | markdownify }}
       </div>
       {{ end }}
 
