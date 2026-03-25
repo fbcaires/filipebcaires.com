@@ -16,7 +16,7 @@
     background: var(--bg-hover, rgba(255,255,255,0.12));
   }
 
-  /* --- Expandable Abstract arrow styling (used outside Working Papers) --- */
+  /* --- Expandable Abstract arrow styling --- */
   details summary::before {
     content: "▸ ";
     font-size: 0.9rem;
@@ -43,36 +43,36 @@
   {{ $all := where (where site.RegularPages "Section" "research") ".Params.example" "ne" true }}
 
   {{ $working := where $all ".Params.group" "==" "working-paper" }}
-  {{ $wip := where $all ".Params.group" "==" "work-in-progress" }}
+  {{ $wip     := where $all ".Params.group" "==" "work-in-progress" }}
   {{ $published := where $all ".Params.group" "==" "published-policy" }}
 
-  <!-- ===================== WORKING PAPERS ===================== -->
-  {{ if gt (len $working) 0 }}
-  <h3 style="margin-bottom: 1rem; margin-top: 0;">Job Market Paper</h3>
+  <!-- ===================== WORKING PAPERS (JMP first, then others) ===================== -->
+  {{ if or (gt (len $working) 0) (gt (len $wip) 0) }}
+  {{/* <h3 style="margin-bottom: 1rem; margin-top: 0;">Working Papers</h3> */}}
 
+  {{/* Job market paper(s) first */}}
   {{ range $working }}
     <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin: auto; padding-bottom: 1.3rem;">
 
-      <!-- TITLE -->
       <div class="publication-title-line" style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.15rem;">
         <a href="{{ .RelPermalink }}" style="text-decoration: none;">{{ .Title }}</a>
       </div>
 
-      <!-- COMMENTS (authors etc.) -->
       {{ with .Params.comments }}
       <div class="publication-comments" style="margin-top: 0.1rem; font-style: italic; color: var(--text-muted, #777); font-size: 0.8rem;">
         {{ . | markdownify }}
       </div>
       {{ end }}
 
-      <!-- ABSTRACT ALWAYS VISIBLE (no toggle for working papers) -->
       {{ if .Params.summary }}
-      <div class="publication-abstract" style="margin-top: 0.5rem; font-size: 0.82rem; line-height: 1.6;">
-        {{ .Params.summary | markdownify }}
-      </div>
+      <details class="publication-abstract" style="margin-top: 0.5rem;">
+        <summary style="cursor: pointer; font-size: 0.85rem; opacity: 0.85; list-style: none;">Abstract</summary>
+        <div style="margin-top: 0.4rem; font-size: 0.82rem; line-height: 1.6;">
+          {{ .Params.summary | markdownify }}
+        </div>
+      </details>
       {{ end }}
 
-      <!-- LINKS -->
       {{ if .Params.links }}
       <div class="publication-links" style="margin-top: 0.6rem;">
         {{ range .Params.links }}
@@ -81,28 +81,20 @@
       </div>
       {{ end }}
 
-      <!-- PRESENTATIONS -->
       {{ with .Params.presentations }}
       <div class="publication-presentations" style="margin-top: 0.6rem; font-size: 0.8rem; font-style: italic; color: var(--text-muted, #777);">
         {{ . | markdownify }}
       </div>
       {{ end }}
 
-      <!-- NOTE -->
       {{ with .Params.note }}
       <div class="publication-note">{{ . | markdownify }}</div>
       {{ end }}
 
     </div>
   {{ end }}
-  {{ end }}
 
-
-
-   <!-- ===================== WORK IN PROGRESS ===================== -->
-  {{ if gt (len $wip) 0 }}
-  <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Working Papers</h3>
-
+  {{/* Other working papers */}}
   {{ range sort $wip "Params.weight" "asc" }}
     <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin: auto; padding-bottom: 1.3rem;">
 
@@ -150,7 +142,7 @@
 
   <!-- ===================== PUBLICATIONS & POLICY WORK ===================== -->
   {{ if gt (len $published) 0 }}
-  <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Publications and Policy work</h3>
+  <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Publications and Policy Work</h3>
 
   {{ range $published }}
     <div class="publication-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin: auto; padding-bottom: 1.3rem;">
