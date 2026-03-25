@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>Contract Splitting in Public Procurement</title>
+      <link>https://filipebcaires.com/research/cspp/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://filipebcaires.com/research/cspp/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Presented at&lt;/em&gt; : ISEG Lisbon Micro Group Lisbon; EUI; Utrecht USE Workshop on Lobbying and Political Influence; UniTo-CCA PhD Workshop in Economics&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Graying Job Ladder: The Role of Ageing for Reallocation and Growth</title>
       <link>https://filipebcaires.com/research/linkeed20_1/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
@@ -26,6 +35,18 @@
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://filipebcaires.com/research/csl_llm/</guid>
       <description>&lt;p&gt;&lt;em&gt;Presented at&lt;/em&gt; (*scheduled): ISEG Lisbon Micro Group Lisbon; EUI; Aix-Marselle School of Economics; *LESE 2026, NovaSBE&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CV and References</title>
+      <link>https://filipebcaires.com/documents/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>https://filipebcaires.com/documents/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://filipebcaires.com/uploads/resume.pdf&#34;&gt;&lt;strong&gt;Curriculum Vitae&lt;/strong&gt;&lt;/a&gt; — Download PDF&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://filipebcaires.com/uploads/academic_references.pdf&#34;&gt;&lt;strong&gt;Academic References&lt;/strong&gt;&lt;/a&gt; — Download PDF&lt;/p&gt;
 </description>
     </item>
     
@@ -44,15 +65,6 @@
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://filipebcaires.com/teaching/microeconomics/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Contract Splitting in Public Procurement</title>
-      <link>https://filipebcaires.com/research/cspp/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://filipebcaires.com/research/cspp/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Presented at&lt;/em&gt; : ISEG Lisbon Micro Group Lisbon; EUI; Utrecht USE Workshop on Lobbying and Political Influence; UniTo-CCA PhD Workshop in Economics&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -321,7 +333,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-164257389&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-195673824&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -331,7 +343,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-164257389&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-195673824&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

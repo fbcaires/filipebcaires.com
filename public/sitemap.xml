@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://filipebcaires.com/research/cspp/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/research/linkeed20_1/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://filipebcaires.com/research/csl_llm/</loc>
+    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://filipebcaires.com/publication-type/3/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,12 +26,8 @@
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://filipebcaires.com/research/linkeed20_1/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/research/csl_llm/</loc>
-    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <loc>https://filipebcaires.com/documents/</loc>
+    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://filipebcaires.com/tag/firm-organization/</loc>
@@ -75,10 +83,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://filipebcaires.com/tag/contract-splitting/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://filipebcaires.com/research/cspp/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
