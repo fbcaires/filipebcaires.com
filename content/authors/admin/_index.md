@@ -34,9 +34,18 @@ interests:
 - Causal Inference
 
 social:
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
+- icon: address-book
+  icon_pack: fas
+  link: uploads/academic_references.pdf
 - icon: envelope
   icon_pack: fas
   link: mailto:filipe.b.caires@eui.eu
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/filipebcaires
 - display:
     header: true
   icon: x-twitter
@@ -49,15 +58,6 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
-- icon: address-book
-  icon_pack: fas
-  link: uploads/academic_references.pdf
   label: Academic References
 status:
   # icon: ☕️
