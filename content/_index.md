@@ -78,9 +78,18 @@ sections:
   content:
     title: CV and References
     text: |
-      [**Curriculum Vitae**](/uploads/resume.pdf) — Download PDF
-
-      [**Academic References**](/uploads/academic_references.pdf) — Download PDF
+      <div class="teaching-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin-bottom: 1rem;">
+        <h3 class="teaching-title" style="font-size: 1.1rem !important; margin-bottom: 0.2rem;">Curriculum Vitae</h3>
+        <div class="teaching-meta" style="font-size: 0.85rem; color: #777; margin-bottom: 0.3rem;">
+          <a href="/uploads/resume.pdf">Download PDF</a>
+        </div>
+      </div>
+      <div class="teaching-entry" style="max-width: 100ch; text-align: left; font-size: 0.85rem; line-height: 1.6; margin-bottom: 1rem;">
+        <h3 class="teaching-title" style="font-size: 1.1rem !important; margin-bottom: 0.2rem;">Academic References</h3>
+        <div class="teaching-meta" style="font-size: 0.85rem; color: #777; margin-bottom: 0.3rem;">
+          <a href="/uploads/academic_references.pdf">Download PDF</a>
+        </div>
+      </div>
   design:
     columns: "2"
   id: cv
