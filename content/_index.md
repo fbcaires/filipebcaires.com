@@ -114,7 +114,7 @@ sections:
     # appointment_url: https://calendly.com
     # autolink: true
     contact_links:
-    - icon: twitter
+    - icon: x-twitter
       icon_pack: fab
       link: https://twitter.com/fbcaires
       name: fbcaires
