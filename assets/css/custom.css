@@ -1,3 +1,11 @@
+/* Custom SVG social icons (e.g. X/Twitter) */
+.network-icon a svg {
+  width: 1.1em;
+  height: 1.1em;
+  fill: currentColor;
+  vertical-align: -0.125em;
+}
+
 .my-publications .publication-entry {
   box-shadow: none !important;
   border: none !important;

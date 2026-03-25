@@ -95,9 +95,9 @@ sections:
     # appointment_url: https://calendly.com
     # autolink: true
     contact_links:
-    - icon: twitter
-      icon_pack: fab
-      link: https://twitter.com/Twitter
+    - icon: x-twitter
+      icon_pack: custom
+      link: https://twitter.com/fbcaires
       name: fbcaires
     # - icon: skype
     #  icon_pack: fab

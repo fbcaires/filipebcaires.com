@@ -1,5 +1,5 @@
 ---
-bio: In my research, I apply microeconometric methods to policy-relevant questions. I'm currently focused on labour, personnel, and public economics topics.
+bio: In my research, I apply microeconometric methods to policy-relevant questions in labour, personnel, and public economics.
 education:
   courses:
   - course: PhD in Economics
@@ -29,6 +29,7 @@ role: PhD Candidate in Economics
 
 interests:
 - Labour Economics
+- Personnel Economics
 - Public Economics
 - Causal Inference
 
@@ -38,9 +39,9 @@ social:
   link: mailto:filipe.b.caires@eui.eu
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
+  icon: x-twitter
+  icon_pack: custom
+  label: Follow me on X
   link: https://twitter.com/fbcaires
 #- icon: graduation-cap
 #  icon_pack: fas
@@ -54,6 +55,10 @@ social:
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
+- icon: address-book
+  icon_pack: fas
+  link: uploads/academic_references.pdf
+  label: Academic References
 status:
   # icon: ☕️
 superuser: true
@@ -62,24 +67,18 @@ title: Filipe B. Caires
 
 I am a PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics), in Florence, Italy. In my research, I apply microeconometric methods to study policy-relevant questions in labour, personnel, and public economics. I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/). I'm also an External Research Affiliate at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and [Università Bocconi](https://economics.unibocconi.eu/).
 
-During my PhD, I undertook research visits at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and the [Institute for Social Research at the University of Michigan](https://isr.umich.edu/), and served as an economist at the Directorate for Employment, Labour, and Social Affairs at the [OECD](https://www.oecd.org/en.html) for half a year. I am a member of the [LinkEED 2.0](https://www.oecd.org/en/about/projects/linkeed-200.html) research network and a Board Memeber of the European Association for Young Economists [(EAYE)](https://www.eaye.info/home).
+During my PhD, I undertook research visits at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and the [Institute for Social Research at the University of Michigan](https://isr.umich.edu/), and served as an economist at the Directorate for Employment, Labour, and Social Affairs at the [OECD](https://www.oecd.org/en.html) for half a year. I am a member of the [LinkEED 2.0](https://www.oecd.org/en/about/projects/linkeed-200.html) research network and a Board Memeber of the European Association of Young Economists [(EAYE)](https://www.eaye.info/home).
 
+<!-- Job Market banner — re-enable when needed
 <p style="color:var(--body-color); font-weight:bold; font-size:1.1em; margin-bottom:0.3em;">
-  I am on the 2025/26 Job Market. 
+  I am on the 2025/26 Job Market.
   Read my
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5136707"
      style="color:dodgerblue; text-decoration:underline; font-weight:normal;">
      Job Market Paper
   </a>.
 </p>
-
-<a href="https://filipebcaires.com/uploads/academic_references.pdf"
-   target="_blank" rel="noopener"
-   style="color:dodgerblue; text-decoration:underline; font-weight:normal; margin-top:0;">
-  Academic References
-</a>
-
-<p style="margin-top:1.5em;"></p>
+-->
 
 Recent and Upcoming Talks: 
 - [EAYE 2025](https://www.eaye.info/eayeam/2025-edition), King's College London (May 29-31)
