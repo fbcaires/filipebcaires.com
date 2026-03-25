@@ -3,12 +3,12 @@ name = "Minimal"
 
 [light]
   # Primary — slightly darker, towards navy
-  primary = "#072660"
+  primary = "#0d3380"
 
   # Menu
   menu_primary = "#fff"
   menu_text = "#34495e"
-  menu_text_active = "#072660"
+  menu_text_active = "#0d3380"
   menu_title = "#2b2b2b"
 
   # Home sections

@@ -58,8 +58,8 @@ body.section-research[data-theme="light"] .publication-presentations {
   border-radius: 999px;
   font-weight: 600;
   font-style: normal;
-  color: var(--primary-color, #072660);
-  background: rgba(7, 38, 96, 0.08);
+  color: var(--primary-color, #0d3380);
+  background: rgba(13, 51, 128, 0.08);
 }
 
 .publication-summary {
