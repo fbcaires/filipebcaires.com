@@ -82,7 +82,7 @@ sections:
 
       [**Academic References**](/uploads/academic_references.pdf) — Download PDF
   design:
-    columns: "1"
+    columns: "2"
   id: cv
 - block: markdown
   content:
