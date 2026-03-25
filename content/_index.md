@@ -68,11 +68,11 @@ sections:
 - block: markdown
   content:
     title: Research
+    subtitle: My research lies at the intersection of labour, personnel, and public economics. Projects with complete drafts are listed above. To discuss other work in progress, feel free to contact me at [filipe.b.caires@eui.eu](mailto:filipe.b.caires@eui.eu).
     text: |
       {{< mypublications_list >}}
-      <p style="font-size: 0.78rem; color: #999; margin-top: -1rem;">My research lies at the intersection of labour, personnel, and public economics. Projects with complete drafts are listed above. To discuss other work in progress, feel free to contact me at <a href="mailto:filipe.b.caires@eui.eu" style="color: dodgerblue;">filipe.b.caires@eui.eu</a>.</p>
   design:
-    columns: "1"
+    columns: "2"
   id: research
 - block: markdown
   content:

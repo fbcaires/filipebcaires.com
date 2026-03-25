@@ -1,3 +1,11 @@
+/* Research subtitle paragraph styling */
+#research .section-heading p {
+  margin-top: 3.5rem !important;
+  font-size: 0.62rem !important;
+  color: #999;
+  line-height: 1.5;
+}
+
 /* Custom SVG social icons (e.g. X/Twitter) */
 .network-icon a svg {
   width: 1.1em;
