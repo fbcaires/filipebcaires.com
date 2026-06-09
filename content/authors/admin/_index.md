@@ -1,19 +1,19 @@
 ---
 bio: In my research, I apply microeconometric methods to policy-relevant questions in labour, personnel, and public economics.
-education:
-  courses:
-  - course: PhD in Economics
-    institution: European University Institute
-    year: 2026 (Expected)
-  - course: MRes in Economics
-    institution: European University Institute
-    year: 2021
-  - course: MSc in Economics
-    institution: Nova School of Business and Economics
-    year: 2018 
-  - course: BSc in Economics
-    institution: Nova School of Business and Economics
-    year: 2016
+#education:
+#  courses:
+#  - course: PhD in Economics
+#   institution: European University Institute
+#    year: 2026 (Expected)
+#  - course: MRes in Economics
+#    institution: European University Institute
+#    year: 2021
+#  - course: MSc in Economics
+#    institution: Nova School of Business and Economics
+#    year: 2018 
+#  - course: BSc in Economics
+#    institution: Nova School of Business and Economics
+#    year: 2016
 email: ""
 first_name: Filipe
 highlight_name: true
@@ -27,11 +27,11 @@ organizations:
   url: https://www.eui.eu/en/academic-units/department-of-economics
 role: PhD Candidate in Economics
 
-interests:
-- Labour Economics
-- Personnel Economics
-- Public Economics
-- Causal Inference
+#interests:
+#- Labour Economics
+#- Personnel Economics
+#- Public Economics
+#- Causal Inference
 
 social:
 - icon: cv
