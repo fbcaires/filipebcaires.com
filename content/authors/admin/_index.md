@@ -64,12 +64,11 @@ status:
 superuser: true
 title: Filipe B. Caires
 ---
+I am an economist applying microeconometric methods to study policy-relevant questions in labour, personnel, and public economics.
 
-I am a PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics), in Florence, Italy, where I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/). I apply microeconometric methods to study policy-relevant questions in labour, personnel, and public economics.
+I am a PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics), where I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/), and I'm also an External Research Affiliate at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and [Università Bocconi](https://economics.unibocconi.eu/).
 
-I'm also an External Research Affiliate at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and [Università Bocconi](https://economics.unibocconi.eu/).
-
-I held research visits at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and the [Institute for Social Research at the University of Michigan](https://isr.umich.edu/), and spent six months as an economist at the [OECD](https://www.oecd.org/en.html)'s Directorate for Employment, Labour, and Social Affairs. I am a member of the [LinkEED 2.0](https://www.oecd.org/en/about/projects/linkeed-200.html) research network and a Board Memeber of the European Association of Young Economists [(EAYE)](https://www.eaye.info/home).
+I undertook research visits at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and the [Institute for Social Research at the University of Michigan](https://isr.umich.edu/), and spent six months as an economist at the [OECD](https://www.oecd.org/en.html)'s Directorate for Employment, Labour, and Social Affairs. I am a member of the [LinkEED 2.0](https://www.oecd.org/en/about/projects/linkeed-200.html) research network and a Board Member of the European Association of Young Economists [(EAYE)](https://www.eaye.info/home).
 
 <!-- Conferences banner  - reenable when needed
 
