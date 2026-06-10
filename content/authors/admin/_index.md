@@ -64,7 +64,7 @@ status:
 superuser: true
 title: Filipe B. Caires
 ---
-I am an economist applying microeconometric methods to study policy-relevant questions in labour, personnel, and public economics.
+I am an economist. In my research, I study policy-relevant questions in labour, personnel, and public economics.
 
 I am a PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics), where I work under the supervision of [Andrea Ichino](https://andreaichino.it) and [Thomas Crossley](https://sites.google.com/site/tfcrossley/), and I'm also an External Research Affiliate at [HEC Montréal](https://www.hec.ca/en/iea/index.html) and [Università Bocconi](https://economics.unibocconi.eu/).
 
