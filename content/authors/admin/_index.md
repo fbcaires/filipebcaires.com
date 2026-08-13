@@ -23,9 +23,9 @@ highlight_name: true
 #- Causal Inference
 last_name: B Caires
 organizations:
-- name: European Unversity Institute
-  url: https://www.eui.eu/en/academic-units/department-of-economics
-role: PhD Candidate in Economics
+- name: Banco de Portugal, Economics and Research Department
+  url: https://www.bportugal.pt/
+role: Economist
 
 #interests:
 #- Labour Economics
