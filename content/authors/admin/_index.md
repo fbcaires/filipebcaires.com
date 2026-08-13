@@ -23,7 +23,9 @@ highlight_name: true
 #- Causal Inference
 last_name: B Caires
 organizations:
-- name: Banco de Portugal, Economics and Research Department
+- name: |
+    Banco de Portugal
+    Economics and Research Department
   url: https://www.bportugal.pt/
 role: Economist
 
