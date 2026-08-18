@@ -68,7 +68,7 @@ sections:
 - block: markdown
   content:
     title: Research
-    subtitle: My research lies at the intersection of labour, personnel, and public economics. Projects with complete drafts are listed above. To discuss other work in progress, feel free to contact me at [filipe.b.caires@eui.eu](mailto:filipe.b.caires@eui.eu).
+    subtitle: My research lies at the intersection of labour, personnel, organizational, and public economics. Projects with complete drafts are listed. To discuss other work in progress, feel free to contact me at [frcaires@bportugal.pt](mailto:frcaires@bportugal.pt).
     text: |
       {{< mypublications_list >}}
   design:
@@ -122,6 +122,10 @@ sections:
       icon_pack: fab
       link: https://twitter.com/fbcaires
       name: fbcaires
+    - icon: linkedin
+      icon_pack: fab
+      link: https://www.linkedin.com/in/filipebcaires
+      name: filipebcaires
     # - icon: skype
     #  icon_pack: fab
     #  link: skype:echo123?call
@@ -130,7 +134,7 @@ sections:
     #  icon_pack: fas
     #  link: https://zoom.com
     #  name: Zoom Me
-    email: filipe.b.caires@eui.eu
+    email: frcaires@bportugal.pt
     # form:
     #  formspree:
     #    id: null

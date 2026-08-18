@@ -43,23 +43,22 @@ social:
   link: uploads/academic_references.pdf
 - icon: envelope
   icon_pack: fas
-  link: mailto:filipe.b.caires@eui.eu
+  link: mailto:frcaires@bportugal.pt
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/filipebcaires
 - display:
     header: true
-  icon: x-twitter
+  icon: linkedin
   icon_pack: fab
-  label: Follow me on X
-  link: https://twitter.com/fbcaires
+  label: Connect on LinkedIn
+  link: https://www.linkedin.com/in/filipebcaires
 #- icon: graduation-cap
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-  label: Academic References
 status:
   # icon: ☕️
 superuser: true
