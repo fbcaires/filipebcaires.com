@@ -44,9 +44,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:frcaires@bportugal.pt
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/filipebcaires
 - display:
     header: true
   icon: linkedin

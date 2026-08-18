@@ -108,13 +108,6 @@ sections:
   id: teaching
 - block: contact
   content:
-    address:
-      city: Fiesole
-      country: Italia
-      country_code: IT
-      postcode: "50014"
-      region: Toscana
-      street: Via delle Fontanelle, 18
     # appointment_url: https://calendly.com
     # autolink: true
     contact_links:
